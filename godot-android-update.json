@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 8,
-  "versionName": "0.8.0",
-  "size": 65529847,
-  "sha256": "f11ade00dac5b4117218e0107fd18e40905ca687c8c4f8a2e4a6d6d015de2c64",
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "size": 65538927,
+  "sha256": "262620cd607076e00f2b94963bfaf488914551e83b9ba1e1812f128d39ab3097",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-008/InfiniteRealities-Godot-Android-Build008.apk",
-  "notes": "Build008: Card-only previews: hold a hand card and release to dismiss; field cards stay enlarged with a red X. Swipe directly over cards in the collection and deck builder. Smaller mobile controls leave more room for cards. Current HP is explicit and selected damaged Characters have a Main Heal button. Your Main effects are slow ordinary play; Opp Main/Any Main remain conditional reactive effects. The in-game rulebook records these clarifications. Offline AI, cached collections and secure updates remain available."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-009/InfiniteRealities-Godot-Android-Build009.apk",
+  "notes": "Build009: Gameplay stays on the field. Defense choices can no longer disappear behind a selected hand card or filter. Exhausted Characters turn sideways. The overlapping hand fits without scrolling. Choose face-up or Hidden when placing a Character. Activation windows show a yellow alert that docks after one second, glowing legal cards and green Skip. The small top gear opens development commands only on request. Card-only hold previews, offline AI and automatic collection sync are retained."
 }
