@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 9,
-  "versionName": "0.9.0",
-  "size": 65538927,
-  "sha256": "262620cd607076e00f2b94963bfaf488914551e83b9ba1e1812f128d39ab3097",
+  "versionCode": 10,
+  "versionName": "0.10.0",
+  "size": 65543200,
+  "sha256": "dc10b0b63b34337a610687d063d90de7641f1417df3759940e22c975184ba9d7",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-009/InfiniteRealities-Godot-Android-Build009.apk",
-  "notes": "Build009: Gameplay stays on the field. Defense choices can no longer disappear behind a selected hand card or filter. Exhausted Characters turn sideways. The overlapping hand fits without scrolling. Choose face-up or Hidden when placing a Character. Activation windows show a yellow alert that docks after one second, glowing legal cards and green Skip. The small top gear opens development commands only on request. Card-only hold previews, offline AI and automatic collection sync are retained."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-010/InfiniteRealities-Godot-Android-Build010.apk",
+  "notes": "Build010: A new galaxy presentation with violet and magenta nebulae, warm stars, a spiral galactic core, luminous panels and richer comet/impact animations. Selected hand cards lift slightly and activation sources have softer gold glows. Yellow activation alerts, green Skip, red close controls, on-field choices, offline AI and automatic collection sync are retained. Reduced-motion settings are respected."
 }
