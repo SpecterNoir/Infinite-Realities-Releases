@@ -2,10 +2,11 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build008 improves phone card browsing and previews: hold a hand card and release
-to dismiss; field cards stay enlarged with a red X. Swipe directly over cards,
-use the smaller browser controls, and heal a selected damaged Character during
-Main. Your Main effects use ordinary slow play; Opp Main/Any Main remain reactive.
+Build009 keeps gameplay on the field. Required defense choices remain visible
+after selecting another card, exhausted Characters turn sideways, and the compact
+overlapping hand needs no scrolling. Choose Hidden during placement. Activation
+windows use a yellow alert, glowing legal cards and green Skip. Development
+commands live behind a small top gear.
 
 [Download the latest Godot Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
 
