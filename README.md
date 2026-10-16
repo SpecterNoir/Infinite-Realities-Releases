@@ -2,11 +2,9 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build009 keeps gameplay on the field. Required defense choices remain visible
-after selecting another card, exhausted Characters turn sideways, and the compact
-overlapping hand needs no scrolling. Choose Hidden during placement. Activation
-windows use a yellow alert, glowing legal cards and green Skip. Development
-commands live behind a small top gear.
+Build010 adds a violet/magenta galaxy presentation, drifting nebulae, warm stars,
+a spiral galactic core, comet combat trails and radiant impacts. On-field choices,
+the compact hand, accessible touch controls and reduced-motion settings remain.
 
 [Download the latest Godot Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
 
