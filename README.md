@@ -2,6 +2,11 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
+Build008 improves phone card browsing and previews: hold a hand card and release
+to dismiss; field cards stay enlarged with a red X. Swipe directly over cards,
+use the smaller browser controls, and heal a selected damaged Character during
+Main. Your Main effects use ordinary slow play; Opp Main/Any Main remain reactive.
+
 [Download the latest Godot Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
 
 Open the latest release and download its **InfiniteRealities-Godot-Android-BuildNNN.apk** asset. Install over your existing Godot app to retain cards, artwork and decks. Do not uninstall first.
