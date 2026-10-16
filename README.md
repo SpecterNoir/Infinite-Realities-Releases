@@ -1,2 +1,13 @@
-# Infinite-Realities-Releases
-Infinite Realities player APK downloads and automatic update feed. No game source or owner data.
+# Infinite Realities — Android downloads
+
+The current game is **Infinite Realities Godot**. Flutter development is retired.
+
+[Download the latest Godot Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
+
+Open the latest release and download its **InfiniteRealities-Godot-Android-BuildNNN.apk** asset. Install over your existing Godot app to retain cards, artwork and decks. Do not uninstall first.
+
+Starting with Godot Build005, open the gear menu → **App updates** to check, download and install later releases directly on your phone. Checks also run automatically outside matches. Interrupted downloads can resume. Android asks you to confirm installation and may first ask for permission to install updates from Infinite Realities. Finish your match before installing.
+
+The Godot app ID is `com.infiniterealities.godot`. The old Flutter app has a different ID; install Godot separately and keep your original data. Import a portable game catalog to bring your cards and artwork.
+
+These are signed Android playtest releases, not a Google Play or iOS app. This repository contains public downloads/discovery only. It does not contain game source, private rules, user catalogs or publisher credentials.
