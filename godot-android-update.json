@@ -1,0 +1,13 @@
+{
+  "format": "infinite-realities-android-update",
+  "schemaVersion": 1,
+  "channel": "godot-android-players",
+  "packageName": "com.infiniterealities.godot",
+  "versionCode": 5,
+  "versionName": "0.5.0",
+  "size": 65449512,
+  "sha256": "cf3c82f9000df657ac9af0df4a7127251762a5af7bd931df5b440ac6df31c959",
+  "minSdk": 24,
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-005/InfiniteRealities-Godot-Android-Build005.apk",
+  "notes": "Build005: Remote Android updates are now built into the Godot game. Automatic checks outside matches, resumable downloads, verified packages and Android installation confirmation. Saved Godot cards and decks remain in place. Includes the shared deck-builder polish and a phone Settings layout fix."
+}
