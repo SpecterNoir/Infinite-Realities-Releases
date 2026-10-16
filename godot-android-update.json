@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 7,
-  "versionName": "0.7.0",
-  "size": 65515165,
-  "sha256": "f7d092c1b76129aea543a621d18fe25a15c5c776ec8a42413e528a1f2d84bf6f",
+  "versionCode": 8,
+  "versionName": "0.8.0",
+  "size": 65529847,
+  "sha256": "f11ade00dac5b4117218e0107fd18e40905ca687c8c4f8a2e4a6d6d015de2c64",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-007/InfiniteRealities-Godot-Android-Build007.apk",
-  "notes": "Build007: Portrait phone layout with bottom navigation, full-width deck editing and a seven-Space arena. Fresh installs have starter cards, saved decks and AI offline; synced collections and artwork stay cached. Fixes AI stalling with automatic sync. One-time connection links and remembered Wi-Fi/remote reconnection keep your collection current. New APKs can download on unmetered Wi-Fi; Android still confirms installation. Desktop retains its wide layout."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-008/InfiniteRealities-Godot-Android-Build008.apk",
+  "notes": "Build008: Card-only previews: hold a hand card and release to dismiss; field cards stay enlarged with a red X. Swipe directly over cards in the collection and deck builder. Smaller mobile controls leave more room for cards. Current HP is explicit and selected damaged Characters have a Main Heal button. Your Main effects are slow ordinary play; Opp Main/Any Main remain conditional reactive effects. The in-game rulebook records these clarifications. Offline AI, cached collections and secure updates remain available."
 }
