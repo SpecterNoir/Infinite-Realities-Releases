@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 11,
-  "versionName": "0.11.0",
-  "size": 96389558,
-  "sha256": "1ca5942e6b25ca8f4606282676bf79326a3d3a25fd3c59d738a555b635962301",
+  "versionCode": 12,
+  "versionName": "0.12.0",
+  "size": 96401414,
+  "sha256": "8687db3077a20a1e5ad340e5d453a4eecbae21621518672195fb3532447454d9",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-011/InfiniteRealities-Godot-Android-Build011.apk",
-  "notes": "Build011: Implements the 18 reviewed Ready cards. Fresh installs include 42 real cards and 41 rendered images; fake Training cards removed. Artless Locations are withheld. Short illustrated basic 1\u201310 tutorial, numbered searchable rules, saved player profiles with card-icon cropping, muted defaults that preserve your preference, four-point Energy star, plain labels and a clear remote-update banner. Android confirms update installation."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-012/InfiniteRealities-Godot-Android-Build012.apk",
+  "notes": "Build012 \u2014 Card presentation\nFull-card showcase and slam onto the field, including Growth, Actions, Equip and reveals. Landscape Location entrances, private card-back draw flights and ordered match feedback. Distinct shield, healing, negation and removal effects. Actual healing amounts, public attachment artwork and stricter private artwork projection. Portrait/desktop layouts, reduced motion and saved audio choices retained."
 }
