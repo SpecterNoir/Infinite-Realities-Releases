@@ -2,10 +2,9 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build012 adds full-card play showcases and field impacts, Action/Equip/reveal
-presentation, Location entrances, private draw flights and clearer spell effects.
-It includes the 42 real offline cards, illustrated tutorial and local profiles.
-Players updates work over the internet; Android confirms installation.
+Build013 adds a brief VS introduction and a cinematic battle-art home screen,
+with portrait framing for phones. It retains the real offline cards, AI play,
+illustrated tutorial and in-app updates. Android confirms installation.
 
 [Download the latest Godot Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
 
