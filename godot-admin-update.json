@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 15,
-  "versionName": "0.15.0",
-  "size": 98613277,
-  "sha256": "98671cfdc2ada6620348de37cb10db50f86e75c04f1077d2db2d391fe0eabd45",
+  "versionCode": 16,
+  "versionName": "0.16.0",
+  "size": 98665149,
+  "sha256": "0ddc5c5335674f9e89b1cc984f4867954b8663fc1ded081a0fdeae3e95fd0285",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-015/InfiniteRealities-Godot-Admin-Build015.apk.enc",
-  "notes": "Build015 \u2014 Opening title screen\nFull-screen selected artwork and Infinite Realities appear when opening the game. Tap to start reveals the menus; no match begins automatically. Admin artwork selection and separate phone/desktop crops are retained, along with offline play and remote app updates.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-016/InfiniteRealities-Godot-Admin-Build016.apk.enc",
+  "notes": "Build016 \u2014 Rulebook and FAQ\nChapter navigation, search, clickable terms and definition pop-ups, readable examples, and scrolling over text and links. A separate player FAQ answers confirmed rules questions. Admin adds Pending rulings and recoverable local editing. Existing gameplay, offline cards, saved data and remote updates are retained.",
   "encryption": "aes-256-ctr",
-  "iv": "720994ed413a644f0e24e21abb93bac2"
+  "iv": "0cc32f1be570f83f8674344679bc01bf"
 }
