@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 13,
-  "versionName": "0.13.0",
-  "size": 98607468,
-  "sha256": "b5f88e534de476724cafef5ccdc7a1fbb8be59fe2dff16b69f413a23dbdf9da4",
+  "versionCode": 14,
+  "versionName": "0.14.0",
+  "size": 98608352,
+  "sha256": "db8439d0dbf3dfdc7c36184cf46d4bfd122158db7e21835d16a60a109d0cf1fc",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-013/InfiniteRealities-Godot-Android-Build013.apk",
-  "notes": "Build013 \u2014 Match intro and home artwork\nTwo-second VS introduction with player icons and racing speed lines; shown once per match. Cinematic battle-art home screen with portrait framing. Admin image selection, separate desktop/mobile crop guides, drag/zoom/reset, recoverable saves and design export. Reduced motion and saved audio preferences retained."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-014/InfiniteRealities-Godot-Android-Build014.apk",
+  "notes": "Build014 \u2014 Remote Admin updates\nAdmin now checks its own remote update channel, shows updates on Home, and supports automatic Wi-Fi downloads, pause/resume and Android installation confirmation. APK edition, hash, version and signer checks protect both editions. Existing decks, collection, profile and preferences are retained."
 }
