@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 18,
-  "versionName": "0.18.0",
-  "size": 109627650,
-  "sha256": "b64fe7b8163fe491918972ce9b2a09c51b5243d3173ded0524592eed4eda0917",
+  "versionCode": 19,
+  "versionName": "0.19.0",
+  "size": 109629970,
+  "sha256": "d903e4f6e936655a8c9a88b4986ce8043dcdf4bcb09952e1a9f510d2cdf6adfa",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-018/InfiniteRealities-Godot-Admin-Build018.apk.enc",
-  "notes": "Build018 adds Tin Man, Cowardly Lion, Nyarlathotep, Azathoth and Zombie. Moving targets stay targeted within Range; attacks fizzle outside Range. Tin Man replaces a full hit with 1000 damage to himself. Zombie supports unlimited copies. Includes offline card images. Admin retains owner answers for review.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-019/InfiniteRealities-Godot-Admin-Build019.apk.enc",
+  "notes": "Build019 enables Godot PvP through automatic host discovery. Create a room and share its code; joining starts the match on both devices. Includes saved-seat reconnects and the current cards and effects. The owner PC must remain on to host online matches.",
   "encryption": "aes-256-ctr",
-  "iv": "21d4816360e32e40cd0328bb0b5b7ff8"
+  "iv": "3424cbd5c97af83d59cec5f830b0b47a"
 }
