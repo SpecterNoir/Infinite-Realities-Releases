@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 22,
-  "versionName": "0.22.0",
-  "size": 109666526,
-  "sha256": "13bdb154f7e600e19fc5a7076c024d2326c4b4517226b11730d5378376cbd7c7",
+  "versionCode": 23,
+  "versionName": "0.23.0",
+  "size": 109676874,
+  "sha256": "1673c904a64e27c4f7f931a5a4519bb7b44d86dc05a8b16639cd0176ece16d1a",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-022/InfiniteRealities-Godot-Admin-Build022.apk.enc",
-  "notes": "Build022: Every game app now automatically syncs the shared playable collection and artwork without Studio pairing. Updates refresh at startup, on resume and while open; cached data works offline and active matches remain frozen. Opponent images download automatically with verification and retries. Saved decks and Admin authoring data are preserved. Update after finishing your match.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-023/InfiniteRealities-Godot-Admin-Build023.apk.enc",
+  "notes": "Build023: Add or remove copies from the Add cards screen. Filter by Identity, Trait and Set, with eight reversible sort orders. Characters can move to an empty adjacent Space by exhausting during Main. Magic and Psychic attackers bypass Wizard of Oz's cost restriction through his Weakness. Crucifix Barrier is removed. Remote PvP has no device-passing prompt. Dark outer-space presentation replaces the purple wash, with subtle rainbow starlight. Shared cards, artwork and offline play remain automatic. Update after finishing your match.",
   "encryption": "aes-256-ctr",
-  "iv": "963aa8c1919cee1cc32a9dce4bb85726"
+  "iv": "8a6ce8b356513492c02aca0f57d8e9e3"
 }
