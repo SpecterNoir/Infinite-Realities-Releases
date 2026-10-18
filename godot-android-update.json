@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 23,
-  "versionName": "0.23.0",
-  "size": 109657646,
-  "sha256": "010befab4da91f92ebfe39cd48f861fafab4cb0549cd815077f550046d8dcaba",
+  "versionCode": 24,
+  "versionName": "0.24.0",
+  "size": 110323891,
+  "sha256": "37c0b3f59bc301377f7430e0ecce7cad9b5c0efacc18a3458933f45e921060f7",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-023/InfiniteRealities-Godot-Android-Build023.apk",
-  "notes": "Build023: Add or remove copies from the Add cards screen. Filter by Identity, Trait and Set, with eight reversible sort orders. Characters can move to an empty adjacent Space by exhausting during Main. Magic and Psychic attackers bypass Wizard of Oz's cost restriction through his Weakness. Crucifix Barrier is removed. Remote PvP has no device-passing prompt. Dark outer-space presentation replaces the purple wash, with subtle rainbow starlight. Shared cards, artwork and offline play remain automatic. Update after finishing your match."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-024/InfiniteRealities-Godot-Android-Build024.apk",
+  "notes": "Build024: Nebula clouds, dust lanes and stars now match the supplied galaxy reference. Each player sees their own left and right correctly, including the shared Location row. Life hits flash red edges with a slight shake. Defeated cards crack and crumble; destroyed cards explode; erased cards wipe away; returning cards trail speed lines into the hand. Opponent hand size has a visible card-back fan and count. Afterlife has a skull icon. Motion preferences, Hidden privacy, offline cards and automatic shared sync are preserved. Update after finishing your match."
 }
