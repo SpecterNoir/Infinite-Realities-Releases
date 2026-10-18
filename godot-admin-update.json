@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 19,
-  "versionName": "0.19.0",
-  "size": 109629970,
-  "sha256": "d903e4f6e936655a8c9a88b4986ce8043dcdf4bcb09952e1a9f510d2cdf6adfa",
+  "versionCode": 20,
+  "versionName": "0.20.0",
+  "size": 109635606,
+  "sha256": "8165fd5525f89528257de58173d21674917e20662fee1a2e46d3c880fc53911e",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-019/InfiniteRealities-Godot-Admin-Build019.apk.enc",
-  "notes": "Build019 enables Godot PvP through automatic host discovery. Create a room and share its code; joining starts the match on both devices. Includes saved-seat reconnects and the current cards and effects. The owner PC must remain on to host online matches.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-020/InfiniteRealities-Godot-Admin-Build020.apk.enc",
+  "notes": "Build020: Online play now shows loading progress, elapsed time, room codes, waiting and connection errors prominently. Saved decks outside the public host collection are marked local only; choose Starter to play online. Both Players and Admin retain remote updates.",
   "encryption": "aes-256-ctr",
-  "iv": "3424cbd5c97af83d59cec5f830b0b47a"
+  "iv": "113f01ce20822318da046b931d18a3d7"
 }
