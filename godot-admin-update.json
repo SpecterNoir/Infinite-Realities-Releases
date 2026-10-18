@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 16,
-  "versionName": "0.16.0",
-  "size": 98665149,
-  "sha256": "0ddc5c5335674f9e89b1cc984f4867954b8663fc1ded081a0fdeae3e95fd0285",
+  "versionCode": 17,
+  "versionName": "0.17.0",
+  "size": 106024350,
+  "sha256": "acaec48a618cd2e967b1382e6a24de0ab128e26b82558654a1f01f2c39dee0be",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-016/InfiniteRealities-Godot-Admin-Build016.apk.enc",
-  "notes": "Build016 \u2014 Rulebook and FAQ\nChapter navigation, search, clickable terms and definition pop-ups, readable examples, and scrolling over text and links. A separate player FAQ answers confirmed rules questions. Admin adds Pending rulings and recoverable local editing. Existing gameplay, offline cards, saved data and remote updates are retained.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-017/InfiniteRealities-Godot-Admin-Build017.apk.enc",
+  "notes": "Build017 (0.17.0)\n- Tarot and other cached card artwork revalidate on launch, Sync and periodically online; offline images are retained.\n- Admin can publish the opening image and desktop/mobile framing for everyone. Both editions receive it automatically without another APK.\n- Eight Ready cards implemented: Cthulhu, Toto, Scarecrow, Wizard of Oz, Flying Monkeys, Glinda, Munchkin Land and Yog-Sothoth.\n- Dorothy now follows her current Search Top3 wording. Offline play includes50 real cards and10 illustrated Locations.\n- Five uncertain cards have questions only in Admin Pending rulings. Rulebook/glossary/player FAQ text is unchanged.",
   "encryption": "aes-256-ctr",
-  "iv": "0cc32f1be570f83f8674344679bc01bf"
+  "iv": "9bf00145f1711f42b94559257bab87e4"
 }
