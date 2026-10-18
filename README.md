@@ -2,8 +2,9 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build016 rebuilds the rulebook with chapters, clickable definitions, working
-scrolling and a player FAQ. It retains offline play and in-app updates.
+Build017 refreshes cached artwork, adds eight Ready cards and current Dorothy,
+and receives shared opening artwork published by Admin. It retains offline AI
+play, the sectioned rulebook and in-app updates.
 Android confirms installation.
 
 [Download the latest Godot Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
