@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build022 automatically syncs the same playable cards and artwork to every game
+Build023 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
 while the app is open; verified cards and images remain available offline.
 Opponent artwork downloads automatically, including cards absent from an older
