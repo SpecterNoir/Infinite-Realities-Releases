@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 19,
-  "versionName": "0.19.0",
-  "size": 109614274,
-  "sha256": "31412636d103ab1c0c712316dd53a94cb5f087e37c12fd03eaa8669401732ecf",
+  "versionCode": 21,
+  "versionName": "0.21.0",
+  "size": 109617862,
+  "sha256": "b844ee473c497860704288d10f1b1457e180022a52183a8a56c338c4c7919bed",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-019/InfiniteRealities-Godot-Android-Build019.apk",
-  "notes": "Build019 enables Godot PvP through automatic host discovery. Create a room and share its code; joining starts the match on both devices. Includes saved-seat reconnects and the current cards and effects. The owner PC must remain on to host online matches."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-021/InfiniteRealities-Godot-Android-Build021.apk",
+  "notes": "Build021: Fixes online deck rejection caused by the starter-only host whitelist. The host now syncs currently playable cards from Studio for new matches and retains a verified offline cache. Prominent connection progress, waiting, room codes and errors; saved decks remain intact."
 }
