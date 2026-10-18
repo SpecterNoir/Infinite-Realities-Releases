@@ -2,10 +2,11 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build021 synchronizes the online host with the game’s playable card collection.
-Create a room and share its code, or join a friend’s room using your legal saved
-deck. Progress, waiting, room codes and connection errors appear prominently.
-Offline AI, shared opening artwork and in-app updates remain available.
+Build022 automatically syncs the same playable cards and artwork to every game
+app. No Card Studio pairing is needed. Data refreshes on startup, resume and
+while the app is open; verified cards and images remain available offline.
+Opponent artwork downloads automatically, including cards absent from an older
+local collection. Finish your match, then have both players update.
 Android confirms installation.
 
 [Download the latest Godot Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
