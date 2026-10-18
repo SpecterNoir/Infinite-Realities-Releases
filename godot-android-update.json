@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 21,
-  "versionName": "0.21.0",
-  "size": 109617862,
-  "sha256": "b844ee473c497860704288d10f1b1457e180022a52183a8a56c338c4c7919bed",
+  "versionCode": 22,
+  "versionName": "0.22.0",
+  "size": 109645806,
+  "sha256": "d88c9d4ec91a4b64d517f21e3cc36f2240b89ed8cf471bbdf2088e79f42e1a0b",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-021/InfiniteRealities-Godot-Android-Build021.apk",
-  "notes": "Build021: Fixes online deck rejection caused by the starter-only host whitelist. The host now syncs currently playable cards from Studio for new matches and retains a verified offline cache. Prominent connection progress, waiting, room codes and errors; saved decks remain intact."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-022/InfiniteRealities-Godot-Android-Build022.apk",
+  "notes": "Build022: Every game app now automatically syncs the shared playable collection and artwork without Studio pairing. Updates refresh at startup, on resume and while open; cached data works offline and active matches remain frozen. Opponent images download automatically with verification and retries. Saved decks and Admin authoring data are preserved. Update after finishing your match."
 }
