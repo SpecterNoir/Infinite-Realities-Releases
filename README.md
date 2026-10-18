@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build017 refreshes cached artwork, adds eight Ready cards and current Dorothy,
+Build018 refreshes cached artwork, adds eight Ready cards and current Dorothy,
 and receives shared opening artwork published by Admin. It retains offline AI
 play, the sectioned rulebook and in-app updates.
 Android confirms installation.
