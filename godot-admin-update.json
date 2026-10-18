@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 24,
-  "versionName": "0.24.0",
-  "size": 110343111,
-  "sha256": "7c44f85b60cc242b4e6650c2fafec0d3bd076d1ef33c4a7eeb77c0d014c857a5",
+  "versionCode": 26,
+  "versionName": "0.26.0",
+  "size": 110365987,
+  "sha256": "5d0c0c8670726b99ee92fb1ecdc7b389b43df4b7a999d59400e22c17427c5e08",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-024/InfiniteRealities-Godot-Admin-Build024.apk.enc",
-  "notes": "Build024: Nebula clouds, dust lanes and stars now match the supplied galaxy reference. Each player sees their own left and right correctly, including the shared Location row. Life hits flash red edges with a slight shake. Defeated cards crack and crumble; destroyed cards explode; erased cards wipe away; returning cards trail speed lines into the hand. Opponent hand size has a visible card-back fan and count. Afterlife has a skull icon. Motion preferences, Hidden privacy, offline cards and automatic shared sync are preserved. Update after finishing your match.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-026/InfiniteRealities-Godot-Admin-Build026.apk.enc",
+  "notes": "Build026: Select effect targets by tapping cards and Spaces. Multi-card choices show a selection count and compact Confirm/Clear controls instead of combination lists. Search shows the revealed cards and lets you tap their return order. Field targets glow; cards outside the field appear in an image picker. Hidden cards and opponent hands remain private. Existing galaxy presentation, offline play, shared sync and remote updates are retained. Finish your match before updating.",
   "encryption": "aes-256-ctr",
-  "iv": "2e72aa02900e12249fe8d736c6047eb3"
+  "iv": "7021dedb487e2ba76b4618c282d468a9"
 }
