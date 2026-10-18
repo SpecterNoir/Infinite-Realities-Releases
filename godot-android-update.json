@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 25,
-  "versionName": "0.25.0",
-  "size": 110349143,
-  "sha256": "16674fd17faf6f28a43c9df09922834e65121b6e885d0c865f577c2f6d066e17",
+  "versionCode": 26,
+  "versionName": "0.26.0",
+  "size": 110349927,
+  "sha256": "a533891fd2adfeef0fefb1902c0e6466dd1cfb3a6e4208750d1b8e663b96b2e8",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-025/InfiniteRealities-Godot-Android-Build025.apk",
-  "notes": "Build025: Select effect targets by tapping cards and Spaces. Multi-card choices show a selection count and compact Confirm/Clear controls instead of combination lists. Search shows the revealed cards and lets you tap their return order. Field targets glow; cards outside the field appear in an image picker. Hidden cards and opponent hands remain private. Existing galaxy presentation, offline play, shared sync and remote updates are retained. Finish your match before updating."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-026/InfiniteRealities-Godot-Android-Build026.apk",
+  "notes": "Build026: Select effect targets by tapping cards and Spaces. Multi-card choices show a selection count and compact Confirm/Clear controls instead of combination lists. Search shows the revealed cards and lets you tap their return order. Field targets glow; cards outside the field appear in an image picker. Hidden cards and opponent hands remain private. Existing galaxy presentation, offline play, shared sync and remote updates are retained. Finish your match before updating."
 }
