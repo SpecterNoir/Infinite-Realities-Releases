@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 20,
-  "versionName": "0.20.0",
-  "size": 109635606,
-  "sha256": "8165fd5525f89528257de58173d21674917e20662fee1a2e46d3c880fc53911e",
+  "versionCode": 21,
+  "versionName": "0.21.0",
+  "size": 109634382,
+  "sha256": "c582726eb1c159e7a05b315aeed59e200ecf40503f58a08c19d288f0cdffc6de",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-020/InfiniteRealities-Godot-Admin-Build020.apk.enc",
-  "notes": "Build020: Online play now shows loading progress, elapsed time, room codes, waiting and connection errors prominently. Saved decks outside the public host collection are marked local only; choose Starter to play online. Both Players and Admin retain remote updates.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-021/InfiniteRealities-Godot-Admin-Build021.apk.enc",
+  "notes": "Build021: Fixes online deck rejection caused by the starter-only host whitelist. The host now syncs currently playable cards from Studio for new matches and retains a verified offline cache. Prominent connection progress, waiting, room codes and errors; saved decks remain intact.",
   "encryption": "aes-256-ctr",
-  "iv": "113f01ce20822318da046b931d18a3d7"
+  "iv": "c75e7a2259464f6e8e3fd171bf29f2c5"
 }
