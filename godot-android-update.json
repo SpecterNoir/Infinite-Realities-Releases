@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 29,
-  "versionName": "0.29.0",
-  "size": 113477633,
-  "sha256": "4ee13e1cf159ca43899261763ff41ebb4f5ea9a37c9f2e2cfe201ad4c5272494",
+  "versionCode": 30,
+  "versionName": "0.30.0",
+  "size": 113485559,
+  "sha256": "3f5541eac111ecfaa0cdafa63f2e07b61019f20fa395c86bc6897bc2c9c840b0",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-029/InfiniteRealities-Godot-Android-Build029.apk",
-  "notes": "Build029: More room for cards in the mobile deck builder. Add cards sits beside saved decks; Your deck sits beside Save deck. Smaller headers, filters and spacing leave more height for browsing. Tall screens use the available height and refresh safe-area padding after immersive bars change. Finish your match before updating."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-030/InfiniteRealities-Godot-Android-Build030.apk",
+  "notes": "Build030: Slower, clearer attacks, effect activations, damage and defensive/restorative cues. Important animations play in sequence instead of overlapping after 0.12 seconds. Damage numbers remain readable, hit borders linger with brief shake, and result banners wait for final feedback. Play and destroy timings are unchanged. Finish your match before updating."
 }
