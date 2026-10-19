@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 30,
-  "versionName": "0.30.0",
-  "size": 113511355,
-  "sha256": "81054631c565b4f6a6584d0b3c82bd3c3f48bf2fe9d3a6e850eadbbdb961d4f6",
+  "versionCode": 31,
+  "versionName": "0.31.0",
+  "size": 113520828,
+  "sha256": "4bcc286eb1e76f51039cd20ce760dd45c64f1f13b3f1fefb3efc8e07c27d6d4e",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-030/InfiniteRealities-Godot-Admin-Build030.apk.enc",
-  "notes": "Build030: Slower, clearer attacks, effect activations, damage and defensive/restorative cues. Important animations play in sequence instead of overlapping after 0.12 seconds. Damage numbers remain readable, hit borders linger with brief shake, and result banners wait for final feedback. Play and destroy timings are unchanged. Finish your match before updating.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-031/InfiniteRealities-Godot-Admin-Build031.apk.enc",
+  "notes": "Build031: Larger fitted Field and complete landscape hand thumbnails. End turn moves to the top header. Attacks, movement, blockers and effect targets are selected directly on the Field. Face-up/Hidden and other card choices float beside their card or Space; outside taps cancel optional menus. No reserved action panels shrink the Field. Hand effects and normal/Hidden plays stay distinct. Finish your match before updating.",
   "encryption": "aes-256-ctr",
-  "iv": "dc349311450197d5c4c33ea35267e3ad"
+  "iv": "8958af4e7cb1cde41174d2d212e6a751"
 }
