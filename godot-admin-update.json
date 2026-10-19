@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 28,
-  "versionName": "0.28.0",
-  "size": 113501917,
-  "sha256": "c8d672f547f8d00fd5fac2454ad52ea6ac8255448d8928694ec8afd4fbbcc6b3",
+  "versionCode": 29,
+  "versionName": "0.29.0",
+  "size": 113503445,
+  "sha256": "cddb73ba941e82091b880f22c1c57b1d337bb0a1a4da931828de5aca864fce5a",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-028/InfiniteRealities-Godot-Admin-Build028.apk.enc",
-  "notes": "Build028: More reliable deck saves, recoverable interrupted drafts, and preservation of older decks after collection sync. Tap enlarged cards to close. Rotate your phone for a complete landscape Field with a compact hand. Skip sits below the activation marker. Incoming attacks have arrows and glowing endpoints; response options have animated speed lines. Forced outcomes resolve automatically when there is no choice. Character placement shows the actual Energy price, including Emerald City. Dracula healing has stronger source checks and no redundant full-HP prompt. Match results say YOU WIN or YOU LOSE. Card showcases stay visible one second longer; routine events use quieter, distinct animations. Finish your match before updating.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-029/InfiniteRealities-Godot-Admin-Build029.apk.enc",
+  "notes": "Build029: More room for cards in the mobile deck builder. Add cards sits beside saved decks; Your deck sits beside Save deck. Smaller headers, filters and spacing leave more height for browsing. Tall screens use the available height and refresh safe-area padding after immersive bars change. Finish your match before updating.",
   "encryption": "aes-256-ctr",
-  "iv": "f92d1c1978bd8928268b4f20a15fe25c"
+  "iv": "4d57a6bb04a2d10bc2a50c5afaf697ce"
 }
