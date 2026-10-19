@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 27,
-  "versionName": "0.27.0",
-  "size": 113450651,
-  "sha256": "6e29df02307bea192bc5ae6d570b5bc0b8122bbb3423cd194d072273a68a827e",
+  "versionCode": 28,
+  "versionName": "0.28.0",
+  "size": 113476117,
+  "sha256": "5444413b46959e06670a15cba132f1bf1ffe56bf1f292f7071531c0d7cb27cb8",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-027/InfiniteRealities-Godot-Android-Build027.apk",
-  "notes": "Build027: Implements the current Ready cards Arthur Pendragon, Guinevere, Lady of the Lake, Holy Grail, Lady\u2019s Lake and Caliburn. Arthur searches the top three cards and equips a card he can legally use. Guinevere searches for a Knight Character. Lady of the Lake and Lady\u2019s Lake equip from the Afterlife. Holy Grail grants Indestructible; Caliburn prevents counters. Desktop and phone controls use direct card selection. Caliburn currently uses a text card until artwork is assigned in Studio. Finish your match before updating."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-028/InfiniteRealities-Godot-Android-Build028.apk",
+  "notes": "Build028: More reliable deck saves, recoverable interrupted drafts, and preservation of older decks after collection sync. Tap enlarged cards to close. Rotate your phone for a complete landscape Field with a compact hand. Skip sits below the activation marker. Incoming attacks have arrows and glowing endpoints; response options have animated speed lines. Forced outcomes resolve automatically when there is no choice. Character placement shows the actual Energy price, including Emerald City. Dracula healing has stronger source checks and no redundant full-HP prompt. Match results say YOU WIN or YOU LOSE. Card showcases stay visible one second longer; routine events use quieter, distinct animations. Finish your match before updating."
 }
