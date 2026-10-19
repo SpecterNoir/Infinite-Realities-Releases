@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 29,
-  "versionName": "0.29.0",
-  "size": 113503445,
-  "sha256": "cddb73ba941e82091b880f22c1c57b1d337bb0a1a4da931828de5aca864fce5a",
+  "versionCode": 30,
+  "versionName": "0.30.0",
+  "size": 113511355,
+  "sha256": "81054631c565b4f6a6584d0b3c82bd3c3f48bf2fe9d3a6e850eadbbdb961d4f6",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-029/InfiniteRealities-Godot-Admin-Build029.apk.enc",
-  "notes": "Build029: More room for cards in the mobile deck builder. Add cards sits beside saved decks; Your deck sits beside Save deck. Smaller headers, filters and spacing leave more height for browsing. Tall screens use the available height and refresh safe-area padding after immersive bars change. Finish your match before updating.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-030/InfiniteRealities-Godot-Admin-Build030.apk.enc",
+  "notes": "Build030: Slower, clearer attacks, effect activations, damage and defensive/restorative cues. Important animations play in sequence instead of overlapping after 0.12 seconds. Damage numbers remain readable, hit borders linger with brief shake, and result banners wait for final feedback. Play and destroy timings are unchanged. Finish your match before updating.",
   "encryption": "aes-256-ctr",
-  "iv": "4d57a6bb04a2d10bc2a50c5afaf697ce"
+  "iv": "dc349311450197d5c4c33ea35267e3ad"
 }
