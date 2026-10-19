@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 31,
-  "versionName": "0.31.0",
-  "size": 113495016,
-  "sha256": "fd46863057606fe17a3c216ab9f563bd0ac8c0bce6fceb48ce9895e83d7a148b",
+  "versionCode": 32,
+  "versionName": "0.32.0",
+  "size": 113519838,
+  "sha256": "71883f9d6bbb54bdd9075afbeb55adf2062bbce883fc908b1aec30dcd6517fe8",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-031/InfiniteRealities-Godot-Android-Build031.apk",
-  "notes": "Build031: Larger fitted Field and complete landscape hand thumbnails. End turn moves to the top header. Attacks, movement, blockers and effect targets are selected directly on the Field. Face-up/Hidden and other card choices float beside their card or Space; outside taps cancel optional menus. No reserved action panels shrink the Field. Hand effects and normal/Hidden plays stay distinct. Finish your match before updating."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-032/InfiniteRealities-Godot-Android-Build032.apk",
+  "notes": "Build032\nAdmin desktop adds a visual match-layout editor with separate phone portrait, phone landscape and desktop layouts, exact positioning, Undo/Redo and import/export. Android Admin can import those layouts. Saved layouts apply at the next match. Standard player layout and gameplay remain unchanged unless a validated presentation layout is supplied in an update."
 }
