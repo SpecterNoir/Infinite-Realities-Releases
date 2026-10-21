@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build034 automatically syncs the same playable cards and artwork to every game
+Build035 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
 while the app is open; verified cards and images remain available offline.
 Opponent artwork downloads automatically, including cards absent from an older
@@ -21,4 +21,4 @@ The Godot app ID is `com.infiniterealities.godot`. The old Flutter app has a dif
 
 These are signed Android playtest releases, not a Google Play or iOS app. This repository contains public downloads/discovery only. It does not contain game source, private rules, user catalogs or publisher credentials.
 
-Build034 adds automatic shared interface updates. Layout edits selected by the owner in desktop Admin reach Players and Admin on desktop and phones automatically. No layout import or selection is needed on your phone.
+Build035 adds automatic shared interface updates. Layout edits selected by the owner in desktop Admin reach Players and Admin on desktop and phones automatically. No layout import or selection is needed on your phone.
