@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 35,
-  "versionName": "0.35.0",
-  "size": 113627118,
-  "sha256": "1b6789abc80dce4092c0fed94b38575cfb7140dfca9b17488305fce7a8da6b7e",
+  "versionCode": 36,
+  "versionName": "0.36.0",
+  "size": 113643960,
+  "sha256": "cc76f06b1a905b14234b4fc1f75a4eba51ee34a8c5537aae5bff148c04a9b1b5",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-035/InfiniteRealities-Godot-Admin-Build035.apk.enc",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-036/InfiniteRealities-Godot-Admin-Build036.apk.enc",
   "notes": "Build033\nInterface edits and named layout selections in desktop Admin now sync automatically to every Players/Admin app on desktop and phones. Offline apps keep their last verified shared layout. Phones need no layout import or selection. Active matches keep their current layout; subsequent matches use the latest shared design. Update once to enable this channel; later layout edits require no new APK.",
   "encryption": "aes-256-ctr",
-  "iv": "6929634cd5a46afb82a787b5b195682b"
+  "iv": "a3007744eb482f469dae78f0c92a8dd0"
 }
