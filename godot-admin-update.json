@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 41,
-  "versionName": "0.41.0",
-  "size": 130789109,
-  "sha256": "0f761e9ae65f5f74dd16eea197d61c5893e58be5bdb5541b193c2cd5ca5055dc",
+  "versionCode": 42,
+  "versionName": "0.42.0",
+  "size": 130808554,
+  "sha256": "15086aba669e2d0fcc8c28d4729681b7f119f705e5cc16cfdae500a59d6f0c97",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-041/InfiniteRealities-Godot-Admin-Build041.apk.enc",
-  "notes": "Build041 implements all sixteen current Ready Cryptid and Tarot cards, with automatic shared collection/artwork updates and offline play. Adds Justice effect responses, delayed draws, turn restrictions, and direct field-card destruction choices. Update both players before creating a new PvP room. Prevents unfinished textless Characters such as Captain Marvel from entering the playable collection.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-042/InfiniteRealities-Godot-Admin-Build042.apk.enc",
+  "notes": "Build042 keeps existing decks playable through card edits by retaining reviewed effects until replacements are implemented. Back navigates without exiting. Card previews have a close X, Back/swipe-down dismissal and linked keyword definitions. Safer unfinished-card previews on desktop and Android.",
   "encryption": "aes-256-ctr",
-  "iv": "0c8a5590d936577b603dd32b62baf8b4"
+  "iv": "e28580f5cbf0f491c8f62c308fd0014d"
 }
