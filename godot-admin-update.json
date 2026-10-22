@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 39,
-  "versionName": "0.39.0",
-  "size": 117384696,
-  "sha256": "6384338699bee940cf605398df9659d42253616ce2c7604c541f49074788cba2",
+  "versionCode": 40,
+  "versionName": "0.40.0",
+  "size": 117388084,
+  "sha256": "505344ab89515e66d24622a8bfeda5c1040331afcd75c62a50df69fbfef6faa0",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-039/InfiniteRealities-Godot-Admin-Build039.apk.enc",
-  "notes": "Build033\nInterface edits and named layout selections in desktop Admin now sync automatically to every Players/Admin app on desktop and phones. Offline apps keep their last verified shared layout. Phones need no layout import or selection. Active matches keep their current layout; subsequent matches use the latest shared design. Update once to enable this channel; later layout edits require no new APK.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-040/InfiniteRealities-Godot-Admin-Build040.apk.enc",
+  "notes": "Build040: Continuous collection and deck-builder scrolling, matching fast swipe momentum over cards and gaps, default alphabetical sorting by card class, and a simpler Add cards toolbar. Full Block and Counter Block are Passive keywords.",
   "encryption": "aes-256-ctr",
-  "iv": "91d74569396e9f4b4ddd9cc2d61b0dc1"
+  "iv": "bc359c634a8387a35bf9c4f8171c5b06"
 }
