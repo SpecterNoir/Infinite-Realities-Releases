@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 40,
-  "versionName": "0.40.0",
-  "size": 117318120,
-  "sha256": "9a938ebb9dcc96cc6da02ca24f0594110771acae619f407ecbdd60152e6de377",
+  "versionCode": 41,
+  "versionName": "0.41.0",
+  "size": 130720029,
+  "sha256": "8963fef05a656ef985701406c802642e5a49e462d842223f2b0815de80ac5ab5",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-040/InfiniteRealities-Godot-Android-Build040.apk",
-  "notes": "Build040: Continuous collection and deck-builder scrolling, matching fast swipe momentum over cards and gaps, default alphabetical sorting by card class, and a simpler Add cards toolbar. Full Block and Counter Block are Passive keywords."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-041/InfiniteRealities-Godot-Android-Build041.apk",
+  "notes": "Build041 implements all sixteen current Ready Cryptid and Tarot cards, with automatic shared collection/artwork updates and offline play. Adds Justice effect responses, delayed draws, turn restrictions, and direct field-card destruction choices. Update both players before creating a new PvP room. Prevents unfinished textless Characters such as Captain Marvel from entering the playable collection."
 }
