@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 39,
-  "versionName": "0.39.0",
-  "size": 117314840,
-  "sha256": "09eb0160c4c3d5e0b0cc9282bd5275a4c7475d14f21c0ae4173cd75b95142736",
+  "versionCode": 40,
+  "versionName": "0.40.0",
+  "size": 117318120,
+  "sha256": "9a938ebb9dcc96cc6da02ca24f0594110771acae619f407ecbdd60152e6de377",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-039/InfiniteRealities-Godot-Android-Build039.apk",
-  "notes": "Build033\nInterface edits and named layout selections in desktop Admin now sync automatically to every Players/Admin app on desktop and phones. Offline apps keep their last verified shared layout. Phones need no layout import or selection. Active matches keep their current layout; subsequent matches use the latest shared design. Update once to enable this channel; later layout edits require no new APK."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-040/InfiniteRealities-Godot-Android-Build040.apk",
+  "notes": "Build040: Continuous collection and deck-builder scrolling, matching fast swipe momentum over cards and gaps, default alphabetical sorting by card class, and a simpler Add cards toolbar. Full Block and Counter Block are Passive keywords."
 }
