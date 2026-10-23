@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 42,
-  "versionName": "0.42.0",
-  "size": 130735354,
-  "sha256": "d42a6c5672fa8b178ecfdd92f299d3ee74d59cd3b4a4a11ad5045c48e97e2e35",
+  "versionCode": 43,
+  "versionName": "0.43.0",
+  "size": 135506717,
+  "sha256": "40da08b544e508508ef40dcdc9a2f03f6280dba78e9a02fcadb8a4520984abba",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-042/InfiniteRealities-Godot-Android-Build042.apk",
-  "notes": "Build042 keeps existing decks playable through card edits by retaining reviewed effects until replacements are implemented. Back navigates without exiting. Card previews have a close X, Back/swipe-down dismissal and linked keyword definitions. Safer unfinished-card previews on desktop and Android."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-043/InfiniteRealities-Godot-Android-Build043.apk",
+  "notes": "Build043 improves tactical decisions across all AI difficulties, with deeper Expert planning and purposeful Energy Token use. Ordinary Main actions resume after combat, and selecting a Character no longer blocks movement with effect targeting. Nine currently Ready card definitions are implemented or updated, including Character Token copies. Playable cards and their rendered artwork remain available offline."
 }
