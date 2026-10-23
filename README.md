@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build044 restores the missing implemented Tarot cards and Santa’s artwork. The complete playable collection and its available images are included for offline play. Collection searches include set names and provide Reset filters. Card and image updates stay together, with automatic retries and checks against incomplete releases. Both players should update before starting an online match.
+Build045 improves card browsing and deck-building performance, fixes a card-tap input fault, and reduces artwork memory use. Full-size previews, continuous scrolling, deck recovery and automatic sync are retained.
 
 Build036 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
