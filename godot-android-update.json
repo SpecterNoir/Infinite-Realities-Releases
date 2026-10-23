@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 44,
-  "versionName": "0.44.0",
-  "size": 150011718,
-  "sha256": "fb24f903fdf872671709396be04489dc909a9fc8357ff7bbf2157206580aa1c1",
+  "versionCode": 45,
+  "versionName": "0.45.0",
+  "size": 174586431,
+  "sha256": "e94f8007bfb4c5c8dfec205efb354b7360a59b6a593d91bb634a28d2c5e46bda",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-044/InfiniteRealities-Godot-Android-Build044.apk",
-  "notes": "Build044 restores Santa artwork and the missing implemented Tarot cards. Collection search includes set names and Reset filters. The full playable collection and available card images are bundled for offline use. More reliable image caching, retries and publication checks keep cards and artwork together. Both players should update before starting online matches."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-045/InfiniteRealities-Godot-Android-Build045.apk",
+  "notes": "Build045 fixes card-tap input faults and improves card browsing and deck-building performance. Only nearby rows are rendered; thumbnail loading runs separately from input with bounded memory. Full-size previews, scrolling momentum, Undo, saved decks and automatic card sync are retained."
 }
