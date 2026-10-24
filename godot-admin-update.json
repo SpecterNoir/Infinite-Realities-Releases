@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 50,
-  "versionName": "0.50.0",
-  "size": 203595392,
-  "sha256": "c14ef1f8c462da8a2696a5e3ee5a9ee3fd5cebb984cced7b023963cb84b63ad2",
+  "versionCode": 51,
+  "versionName": "0.51.0",
+  "size": 211770076,
+  "sha256": "c66c4acb0aa21f3e5f1daebcb42eb7c8d09f88c75645c780040419b13b7323b9",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-050/InfiniteRealities-Godot-Admin-Build050.apk.enc",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-051/InfiniteRealities-Godot-Admin-Build051.apk.enc",
   "notes": "Build049: Equipped inspection and attached Item-effect controls; default decks; deck-box menus and long-press actions; smooth mascot scrolling; simultaneous online opening hands; direct card-then-Space selection; visible Counterattack response. Adds When Removed and When Attacking/Counterattacking keywords and paid Hidden movement clarification. Implements27 reviewed Ready definitions, including Rhongomyniad and Green Girdle. Full offline collection and artwork retained. Both players should update before new online matches. Install over the existing app to retain saved decks.",
   "encryption": "aes-256-ctr",
-  "iv": "93c75588dd04e1ef2d9d787ba6cb2f7f"
+  "iv": "fba1574744fd7946e46861e794d6c187"
 }
