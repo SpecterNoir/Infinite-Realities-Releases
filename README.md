@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build045 improves card browsing and deck-building performance, fixes a card-tap input fault, and reduces artwork memory use. Full-size previews, continuous scrolling, deck recovery and automatic sync are retained.
+Build046 implements the eleven current Ready cards, includes their artwork and offline support, and fixes a Hidden-blocker combat crash. Both players should update before starting new online matches. Build045 browsing and memory improvements are retained.
 
 Build036 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
