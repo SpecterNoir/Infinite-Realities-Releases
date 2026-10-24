@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 48,
-  "versionName": "0.48.0",
-  "size": 191688211,
-  "sha256": "6bceed8eaa68c76d057128e6d78128917476a6b90d2a31cf51829d6676eedef5",
+  "versionCode": 49,
+  "versionName": "0.49.0",
+  "size": 196739398,
+  "sha256": "ec2a2713f972e90383d7669d2bd75d30a0d0c67893924318274d59e88e4bf4d8",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-048/InfiniteRealities-Godot-Admin-Build048.apk.enc",
-  "notes": "Build048 restores Excalibur with its current 3000 battle damage reduction. Adds Avalon, Sleepy Hollow, Carmilla and The Himalayas, with current card artwork, offline support, AI and PvP. Will Scarlet and Watson artwork is also included. Both players should update before starting a new online match. Install over the existing app to retain saved decks.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-049/InfiniteRealities-Godot-Admin-Build049.apk.enc",
+  "notes": "Build049: Equipped inspection and attached Item-effect controls; default decks; deck-box menus and long-press actions; smooth mascot scrolling; simultaneous online opening hands; direct card-then-Space selection; visible Counterattack response. Adds When Removed and When Attacking/Counterattacking keywords and paid Hidden movement clarification. Implements27 reviewed Ready definitions, including Rhongomyniad and Green Girdle. Full offline collection and artwork retained. Both players should update before new online matches. Install over the existing app to retain saved decks.",
   "encryption": "aes-256-ctr",
-  "iv": "b1485ab7dfd206d66c61d730a5a4673d"
+  "iv": "68717f610bd868f2de400c5f91778a5b"
 }
