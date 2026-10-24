@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 48,
-  "versionName": "0.48.0",
-  "size": 191607779,
-  "sha256": "03dc7cbd8bfaaf541c02d9607ad8181eb4576195aef979eb0d61e2689c309a5c",
+  "versionCode": 49,
+  "versionName": "0.49.0",
+  "size": 196665842,
+  "sha256": "bb1f451cb779d0014e6d61bb46990cc5011ccf9540d3cc317bacba2cc8c0589f",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-048/InfiniteRealities-Godot-Android-Build048.apk",
-  "notes": "Build048 restores Excalibur with its current 3000 battle damage reduction. Adds Avalon, Sleepy Hollow, Carmilla and The Himalayas, with current card artwork, offline support, AI and PvP. Will Scarlet and Watson artwork is also included. Both players should update before starting a new online match. Install over the existing app to retain saved decks."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-049/InfiniteRealities-Godot-Android-Build049.apk",
+  "notes": "Build049: Equipped inspection and attached Item-effect controls; default decks; deck-box menus and long-press actions; smooth mascot scrolling; simultaneous online opening hands; direct card-then-Space selection; visible Counterattack response. Adds When Removed and When Attacking/Counterattacking keywords and paid Hidden movement clarification. Implements27 reviewed Ready definitions, including Rhongomyniad and Green Girdle. Full offline collection and artwork retained. Both players should update before new online matches. Install over the existing app to retain saved decks."
 }
