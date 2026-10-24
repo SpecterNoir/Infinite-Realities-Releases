@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build047 adds the updated Vampire Lucy Westenra with her current artwork, Search and recruitment effects, retaining all Build046 cards and fixes. Both players should update before starting new online matches. Build045 browsing and memory improvements are retained.
+Build048 restores Excalibur and implements Avalon, Sleepy Hollow, Carmilla and The Himalayas, including current artwork and offline play. Both players should update before starting new online matches. All previous browsing and deck improvements remain.
 
 Build036 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
