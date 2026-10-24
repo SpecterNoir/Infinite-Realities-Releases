@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build050 implements the ten current Ready cards, including Dracula's Coffin, Bats, Wolves, The Grim Reaper and new Camelot Items. Includes all145 playable cards and137 card images offline. Both players should update before starting new online matches.
+Build051 includes the expanded Ready batch: Time Machine, Phoenix, Merry Men, new Locations and revised Camelot cards, plus all Build050 implementations. Includes153 playable cards and145 card images offline. Both players should update before starting new online matches.
 
 Build036 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
