@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 45,
-  "versionName": "0.45.0",
-  "size": 174586431,
-  "sha256": "e94f8007bfb4c5c8dfec205efb354b7360a59b6a593d91bb634a28d2c5e46bda",
+  "versionCode": 46,
+  "versionName": "0.46.0",
+  "size": 184813469,
+  "sha256": "d8a7e9206eb0ff8169bcf86bcca3e26915a426ab3d661491e737c18df9c8e7e7",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-045/InfiniteRealities-Godot-Android-Build045.apk",
-  "notes": "Build045 fixes card-tap input faults and improves card browsing and deck-building performance. Only nearby rows are rendered; thumbnail loading runs separately from input with bounded memory. Full-size previews, scrolling momentum, Undo, saved decks and automatic card sync are retained."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-046/InfiniteRealities-Godot-Android-Build046.apk",
+  "notes": "Build046 implements 11 ready cards: Dracula\u2019s Bride, Morgan le Fay, Kraken, Nottingham, Hermes, Poseidon, Atlantis, Baron Samedi, Morgause, Reginald Clarke and Orlok. Includes their artwork, offline availability, AI support and online gameplay. Preserves saved decks and the Build045 browsing performance improvements. Update both players before starting a new online match."
 }
