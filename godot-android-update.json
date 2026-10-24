@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 50,
-  "versionName": "0.50.0",
-  "size": 203516700,
-  "sha256": "60dc9e1ee538faa93f358b19907c275315162636eb5fc85db8365e1684a5375f",
+  "versionCode": 51,
+  "versionName": "0.51.0",
+  "size": 211691500,
+  "sha256": "f14e83ead355684f0a968174d89001cd1c1457936f9e049aee8d867469a22ab6",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-050/InfiniteRealities-Godot-Android-Build050.apk",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-051/InfiniteRealities-Godot-Android-Build051.apk",
   "notes": "Build049: Equipped inspection and attached Item-effect controls; default decks; deck-box menus and long-press actions; smooth mascot scrolling; simultaneous online opening hands; direct card-then-Space selection; visible Counterattack response. Adds When Removed and When Attacking/Counterattacking keywords and paid Hidden movement clarification. Implements27 reviewed Ready definitions, including Rhongomyniad and Green Girdle. Full offline collection and artwork retained. Both players should update before new online matches. Install over the existing app to retain saved decks."
 }
