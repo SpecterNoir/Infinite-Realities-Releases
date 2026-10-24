@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 47,
-  "versionName": "0.47.0",
-  "size": 185779707,
-  "sha256": "13aca31d0c4be7ddad077064bb466c08d086c3e33d993abe4a9db0141720b350",
+  "versionCode": 48,
+  "versionName": "0.48.0",
+  "size": 191688211,
+  "sha256": "6bceed8eaa68c76d057128e6d78128917476a6b90d2a31cf51829d6676eedef5",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-047/InfiniteRealities-Godot-Admin-Build047.apk.enc",
-  "notes": "Build047 implements the updated Vampire Lucy Westenra: Search Top4 for Count Dracula, then recruit opposing Characters destroyed by your card effects into adjacent Spaces. Includes her current artwork, offline support, AI and PvP. Retains all Build046 cards and fixes. Both players should update before starting a new online match.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-048/InfiniteRealities-Godot-Admin-Build048.apk.enc",
+  "notes": "Build048 restores Excalibur with its current 3000 battle damage reduction. Adds Avalon, Sleepy Hollow, Carmilla and The Himalayas, with current card artwork, offline support, AI and PvP. Will Scarlet and Watson artwork is also included. Both players should update before starting a new online match. Install over the existing app to retain saved decks.",
   "encryption": "aes-256-ctr",
-  "iv": "9bbc641ba8b51a6b39d52987f36ea8d1"
+  "iv": "b1485ab7dfd206d66c61d730a5a4673d"
 }
