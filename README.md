@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build048 restores Excalibur and implements Avalon, Sleepy Hollow, Carmilla and The Himalayas, including current artwork and offline play. Both players should update before starting new online matches. All previous browsing and deck improvements remain.
+Build049 adds Equipped inspection, Character Item-effect controls, default decks, deck-box hold/menu actions, smooth mascot scrolling, simultaneous online mulligans and direct effect placement. Includes the27 current reviewed Ready cards and full offline collection. Both players should update before starting new online matches.
 
 Build036 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
