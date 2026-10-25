@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 52,
-  "versionName": "0.52.0",
-  "size": 213560276,
-  "sha256": "c2309dffafd33d021c0ba50cc9f6b90d61416a0da505e0cdd6e82320d45535f8",
+  "versionCode": 53,
+  "versionName": "0.53.0",
+  "size": 215718746,
+  "sha256": "b62f5ead00882e675e033b7adb55900399cb856d3fb7fd8f83633f519f2fcea0",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-052/InfiniteRealities-Godot-Android-Build052.apk",
-  "notes": "Build052: El Dorado, Munchkin and Outer Space are playable. Includes 155 approved cards and 147 rendered card images for offline play. Both players should update before starting a new online match.\n\nBuild049: Equipped inspection and attached Item-effect controls; default decks; deck-box menus and long-press actions; smooth mascot scrolling; simultaneous online opening hands; direct card-then-Space selection; visible Counterattack response. Adds When Removed and When Attacking/Counterattacking keywords and paid Hidden movement clarification. Implements27 reviewed Ready definitions, including Rhongomyniad and Green Girdle. Full offline collection and artwork retained. Both players should update before new online matches. Install over the existing app to retain saved decks."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-053/InfiniteRealities-Godot-Android-Build053.apk",
+  "notes": "Build053: tap Collection cards to preview. New shuffle, Search-to-hand and coin animations. Admin animation-speed controls publish to everyone. Wheel of Fortune and The Hanged Man are playable; Time Machine artwork is included offline. Both players should update before online play.\n\nBuild052: El Dorado, Munchkin and Outer Space are playable. Includes 155 approved cards and 147 rendered card images for offline play. Both players should update before starting a new online match.\n\nBuild049: Equipped inspection and attached Item-effect controls; default decks; deck-box menus and long-press actions; smooth mascot scrolling; simultaneous online opening hands; direct card-then-Space selection; visible Counterattack response. Adds When Removed and When Attacking/Counterattacking keywords and paid Hidden movement clarification. Implements27 reviewed Ready definitions, including Rhongomyniad and Green Girdle. Full offline collection and artwork retained. Both players should update before new online matches. Install over the existing app to retain saved decks."
 }
