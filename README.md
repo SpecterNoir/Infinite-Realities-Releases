@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build052 implements El Dorado, Munchkin and Outer Space. Includes155 playable cards and147 card images offline. Both players should update before starting new online matches.
+Build053 adds tap previews, card-transfer/shuffle/coin animations, shared speed controls and two Tarot implementations. Includes156 playable cards and149 card images offline. Both players should update before starting new online matches.
 
 Build036 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
