@@ -2,7 +2,7 @@
 
 The current game is **Infinite Realities Godot**. Flutter development is retired.
 
-Build051 includes the expanded Ready batch: Time Machine, Phoenix, Merry Men, new Locations and revised Camelot cards, plus all Build050 implementations. Includes153 playable cards and145 card images offline. Both players should update before starting new online matches.
+Build052 implements El Dorado, Munchkin and Outer Space. Includes155 playable cards and147 card images offline. Both players should update before starting new online matches.
 
 Build036 automatically syncs the same playable cards and artwork to every game
 app. No Card Studio pairing is needed. Data refreshes on startup, resume and
