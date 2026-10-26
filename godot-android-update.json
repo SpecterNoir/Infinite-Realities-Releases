@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 55,
-  "versionName": "0.55.0",
-  "size": 215747383,
-  "sha256": "a431f167e675d5987b520c074ba0b2584e02ca9524b50dd4134941448e45c87d",
+  "versionCode": 56,
+  "versionName": "0.56.0",
+  "size": 215749039,
+  "sha256": "592de21427bc4c7d5390125e04e7f6870ceb937d1bbc38e507758884150c69a9",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-055/InfiniteRealities-Godot-Android-Build055.apk",
-  "notes": "Build055\n- Fixed title-specific Item requirements, including Dracula\u2019s Coffin attaching to (Count) Dracula.\n- Split the glossary into General terms and Card keywords, with colored keyword boxes and linked definitions.\n- Unified the Keywords screen with the glossary.\n- Added a distinct gold attachment cue when an Item reaches its Character.\n- Fixed an error when leaving and reopening the deck builder."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-056/InfiniteRealities-Godot-Android-Build056.apk",
+  "notes": "Build056\n- Fixed title-specific Item requirements, including Dracula\u2019s Coffin attaching to (Count) Dracula.\n- Split the glossary into General terms and Card keywords, with colored keyword boxes and linked definitions.\n- Unified the Keywords screen with the glossary.\n- Added a distinct gold attachment cue when an Item reaches its Character.\n- Fixed an error when leaving and reopening the deck builder.\n- Protect unsaved Admin glossary edits when using Back or changing screens."
 }
