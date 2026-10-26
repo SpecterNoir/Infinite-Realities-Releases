@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 54,
-  "versionName": "0.54.0",
-  "size": 215741707,
-  "sha256": "43391d212d14edafe94011a1bf1c1364e0840070cb57554b38f647cca9687888",
+  "versionCode": 55,
+  "versionName": "0.55.0",
+  "size": 215747383,
+  "sha256": "a431f167e675d5987b520c074ba0b2584e02ca9524b50dd4134941448e45c87d",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-054/InfiniteRealities-Godot-Android-Build054.apk",
-  "notes": "Build054\n\nIntangible Characters protect Life and cannot be attacked by Characters without Intangible.\nImproved AI placement, defensive decisions and Hard/Expert opponent-reply planning.\nRebuilt tutorial: eight interactive lessons with real illustrated cards, direct card/Space selection and visible outcomes.\nFixed a recovery choice that could leave a match with no legal move."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-055/InfiniteRealities-Godot-Android-Build055.apk",
+  "notes": "Build055\n- Fixed title-specific Item requirements, including Dracula\u2019s Coffin attaching to (Count) Dracula.\n- Split the glossary into General terms and Card keywords, with colored keyword boxes and linked definitions.\n- Unified the Keywords screen with the glossary.\n- Added a distinct gold attachment cue when an Item reaches its Character.\n- Fixed an error when leaving and reopening the deck builder."
 }
