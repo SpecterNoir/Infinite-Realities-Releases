@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 54,
-  "versionName": "0.54.0",
-  "size": 215825363,
-  "sha256": "6418cda50a4b47f6a4aa395f194f5bd3f8eb5890419d619a79e36d0df6c68963",
+  "versionCode": 55,
+  "versionName": "0.55.0",
+  "size": 215831263,
+  "sha256": "796589003a61bd53ec07d6e2f87290b17b71b6ac3f6fa9ddbbf415618b3b807d",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-054/InfiniteRealities-Godot-Admin-Build054.apk.enc",
-  "notes": "Build054\n\nIntangible Characters protect Life and cannot be attacked by Characters without Intangible.\nImproved AI placement, defensive decisions and Hard/Expert opponent-reply planning.\nRebuilt tutorial: eight interactive lessons with real illustrated cards, direct card/Space selection and visible outcomes.\nFixed a recovery choice that could leave a match with no legal move.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-055/InfiniteRealities-Godot-Admin-Build055.apk.enc",
+  "notes": "Build055\n- Fixed title-specific Item requirements, including Dracula\u2019s Coffin attaching to (Count) Dracula.\n- Split the glossary into General terms and Card keywords, with colored keyword boxes and linked definitions.\n- Unified the Keywords screen with the glossary.\n- Added a distinct gold attachment cue when an Item reaches its Character.\n- Fixed an error when leaving and reopening the deck builder.",
   "encryption": "aes-256-ctr",
-  "iv": "e3cf7c9a7cff7ee6e0736511a9af0408"
+  "iv": "bf7020d0b33eace759b9376635a7e813"
 }
