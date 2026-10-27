@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 56,
-  "versionName": "0.56.0",
-  "size": 215832955,
-  "sha256": "945798a9fae0b6c0ca12c9c2f163e66ac5e5155448e02e83aac9a261e12cdc60",
+  "versionCode": 57,
+  "versionName": "0.57.0",
+  "size": 215882014,
+  "sha256": "3516875741eb078167a4fe952051903624fc82b64d2e8ff8a3b956f3aaecb285",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-056/InfiniteRealities-Godot-Admin-Build056.apk.enc",
-  "notes": "Build056\n- Fixed title-specific Item requirements, including Dracula\u2019s Coffin attaching to (Count) Dracula.\n- Split the glossary into General terms and Card keywords, with colored keyword boxes and linked definitions.\n- Unified the Keywords screen with the glossary.\n- Added a distinct gold attachment cue when an Item reaches its Character.\n- Fixed an error when leaving and reopening the deck builder.\n- Protect unsaved Admin glossary edits when using Back or changing screens.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-057/InfiniteRealities-Godot-Admin-Build057.apk.enc",
+  "notes": "Build057\n\nShared interface layouts now cover screens, controls, typography, colors and spacing.\nDesktop Admin has a new visual editor with real desktop and phone previews, precise positioning, snapping, content sizing, Undo/Redo and saved variants.\nField and hand fitting no longer imposes the old fixed-size content gaps.\nValid design changes sync automatically to all updated apps. Open matches keep their starting design.\nIncludes preview lifecycle, navigation and card-grid resizing fixes. Existing cards, rules and online matches are preserved.",
   "encryption": "aes-256-ctr",
-  "iv": "b63f4a0738eaa32f18073712809964f1"
+  "iv": "2f13f4e766779490b5e18d403a345093"
 }
