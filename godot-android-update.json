@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 61,
-  "versionName": "0.61.0",
-  "size": 222266320,
-  "sha256": "6c71bc8932124259cdc0794ec5a2d9fa73ad8ed4d253b31c56c4c1b5c6c1b69e",
+  "versionCode": 62,
+  "versionName": "0.62.0",
+  "size": 222267043,
+  "sha256": "d6df3c6c7c772589a5344aad8dda6fdb1d50c1aa29d2270ff65bc0e8acf73e2a",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-061/InfiniteRealities-Godot-Android-Build061.apk",
-  "notes": "Compact portrait and landscape field: card-sized Spaces, scenery-only Locations, circular profiles, red Life hearts, Energy counters and deck/Afterlife piles. Hand cards sit low and enlarge on hover or touch. Fixes field layers intercepting play buttons and legal Space taps cancelling selected cards."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-062/InfiniteRealities-Godot-Android-Build062.apk",
+  "notes": "Larger landscape Field with each player's portrait and piles on their own side. Deck and Afterlife now look like card stacks. Tap Afterlife to browse a smooth-scrolling card grid and inspect individual cards. Hidden Characters have muted artwork and a gray edge glow."
 }
