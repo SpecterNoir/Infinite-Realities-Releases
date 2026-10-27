@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 59,
-  "versionName": "0.59.0",
-  "size": 215881946,
-  "sha256": "0c684c46934f24c51e22e74eaff1eceb34a284c2adaf7c64f52240a4a85aa265",
+  "versionCode": 60,
+  "versionName": "0.60.0",
+  "size": 222337366,
+  "sha256": "36c467dbb928bc5bdb51bfdf2329848bcfd333d5c0bb897da76d37a66552f97f",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-059/InfiniteRealities-Godot-Admin-Build059.apk.enc",
-  "notes": "Opening hands now contain five cards. Mulligans and the first-player first-turn draw skip are unchanged.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-060/InfiniteRealities-Godot-Admin-Build060.apk.enc",
+  "notes": "Implements all nine current Ready Tarot Actions, including The Star. Updated targeting, Start timing, temporary protections and Action discounts. Starting hands remain five cards.",
   "encryption": "aes-256-ctr",
-  "iv": "38dc96ec81148bee0420ada04ea0adfe"
+  "iv": "acf443e8d64402f21dbe54666e26d867"
 }
