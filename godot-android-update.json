@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 58,
-  "versionName": "0.58.0",
-  "size": 215798290,
-  "sha256": "9723477c3b1b22f3b7ae11399102160f342f4edc444e68895ad4bcc3a5ea9202",
+  "versionCode": 59,
+  "versionName": "0.59.0",
+  "size": 215798494,
+  "sha256": "dfa2209dce1c082f3c09979a2a6bc9182dc7c1e6c4f2d4e53e433864d9b12897",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-058/InfiniteRealities-Godot-Android-Build058.apk",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-059/InfiniteRealities-Godot-Android-Build059.apk",
   "notes": "Opening hands now contain five cards. Mulligans and the first-player first-turn draw skip are unchanged."
 }
