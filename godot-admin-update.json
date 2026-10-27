@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 60,
-  "versionName": "0.60.0",
-  "size": 222337366,
-  "sha256": "36c467dbb928bc5bdb51bfdf2329848bcfd333d5c0bb897da76d37a66552f97f",
+  "versionCode": 61,
+  "versionName": "0.61.0",
+  "size": 222350404,
+  "sha256": "4c2e6ad2a2d9b2a6b432b412d097718cd2f0d0c5d986712c695f23310d18bf48",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-060/InfiniteRealities-Godot-Admin-Build060.apk.enc",
-  "notes": "Implements all nine current Ready Tarot Actions, including The Star. Updated targeting, Start timing, temporary protections and Action discounts. Starting hands remain five cards.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-061/InfiniteRealities-Godot-Admin-Build061.apk.enc",
+  "notes": "Compact portrait and landscape field: card-sized Spaces, scenery-only Locations, circular profiles, red Life hearts, Energy counters and deck/Afterlife piles. Hand cards sit low and enlarge on hover or touch. Fixes field layers intercepting play buttons and legal Space taps cancelling selected cards.",
   "encryption": "aes-256-ctr",
-  "iv": "acf443e8d64402f21dbe54666e26d867"
+  "iv": "98be4bb0b0818ed97f2da00ecde5c327"
 }
