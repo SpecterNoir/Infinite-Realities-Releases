@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 62,
-  "versionName": "0.62.0",
-  "size": 222351147,
-  "sha256": "2f8e26093c8225b42991308f78bacd6a7925bf4a13e316a675fac48032f2a281",
+  "versionCode": 63,
+  "versionName": "0.63.0",
+  "size": 222362424,
+  "sha256": "c565b3f9e6e8c8fe8baf47549b9c7fe1530b2d313cd657a3b2748e0c06d401a4",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-062/InfiniteRealities-Godot-Admin-Build062.apk.enc",
-  "notes": "Larger landscape Field with each player's portrait and piles on their own side. Deck and Afterlife now look like card stacks. Tap Afterlife to browse a smooth-scrolling card grid and inspect individual cards. Hidden Characters have muted artwork and a gray edge glow.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-063/InfiniteRealities-Godot-Admin-Build063.apk.enc",
+  "notes": "Match timing fixed: card plays finish before cards land and effects appear, consecutive actions resolve in order, and turn changes wait for the preceding action. AI and online presentation use the same queue. Controls wait until the displayed board catches up.",
   "encryption": "aes-256-ctr",
-  "iv": "58165b51253b16662927e9f11febfd5a"
+  "iv": "325682b0b3103704319a4f48113960fb"
 }
