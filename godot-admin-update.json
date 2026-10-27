@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 57,
-  "versionName": "0.57.0",
-  "size": 215882014,
-  "sha256": "3516875741eb078167a4fe952051903624fc82b64d2e8ff8a3b956f3aaecb285",
+  "versionCode": 58,
+  "versionName": "0.58.0",
+  "size": 215881846,
+  "sha256": "d8bc3c6a7fa5c0e41e2a5a7b486223610bd1614db0c4d8c5fa8f8791a284585e",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-057/InfiniteRealities-Godot-Admin-Build057.apk.enc",
-  "notes": "Build057\n\nShared interface layouts now cover screens, controls, typography, colors and spacing.\nDesktop Admin has a new visual editor with real desktop and phone previews, precise positioning, snapping, content sizing, Undo/Redo and saved variants.\nField and hand fitting no longer imposes the old fixed-size content gaps.\nValid design changes sync automatically to all updated apps. Open matches keep their starting design.\nIncludes preview lifecycle, navigation and card-grid resizing fixes. Existing cards, rules and online matches are preserved.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-058/InfiniteRealities-Godot-Admin-Build058.apk.enc",
+  "notes": "Opening hands now contain five cards. Mulligans and the first-player first-turn draw skip are unchanged.",
   "encryption": "aes-256-ctr",
-  "iv": "2f13f4e766779490b5e18d403a345093"
+  "iv": "57b0383d5f5a301c2e022e5eab351ae5"
 }
