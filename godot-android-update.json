@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 63,
-  "versionName": "0.63.0",
-  "size": 222278268,
-  "sha256": "ac8a08f7c274f9872f02a40fdf99651a4170df1291fd32882ef599b62cbae097",
+  "versionCode": 64,
+  "versionName": "0.64.0",
+  "size": 222280484,
+  "sha256": "ffaa706625f7b6986b62a0880ea5d7e03d7f76844ecfbb1af742f167bb53aeee",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-063/InfiniteRealities-Godot-Android-Build063.apk",
-  "notes": "Match timing fixed: card plays finish before cards land and effects appear, consecutive actions resolve in order, and turn changes wait for the preceding action. AI and online presentation use the same queue. Controls wait until the displayed board catches up."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-064/InfiniteRealities-Godot-Android-Build064.apk",
+  "notes": "Build064\nNew York only extends existing Full Block. Updated unpaid Hidden defeat and payment timing rules. Full Fields can replace a Character when playing another. Select Energy, then a Character to heal or an empty Space for a Token. Hide is below the Character. Landscape battles stay centered around camera/navigation insets. Updated rulebook and FAQ."
 }
