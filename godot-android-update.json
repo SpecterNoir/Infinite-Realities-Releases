@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 66,
-  "versionName": "0.66.0",
-  "size": 222308140,
-  "sha256": "1b6d6f7af764300ac70486c4ec0dc92b66213c4433a2a42622501eb2b2cecd1a",
+  "versionCode": 67,
+  "versionName": "0.67.0",
+  "size": 222364877,
+  "sha256": "51e55b80c4fb9d27a670dbc8ad90a6eec3e0857fccb81ed94d01ecbb25bf4cf1",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-066/InfiniteRealities-Godot-Android-Build066.apk",
-  "notes": "Build066\nRetryable match setup, progress/error feedback and duplicate-start protection. Clearer Return to match on Home. Full deck-check details, easier room-code entry/pasting and simpler player connection screens. New Help and support with a privacy-conscious report. Clearer sound/motion settings and better-fitting phone dialogs. No gameplay or balance changes."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-067/InfiniteRealities-Godot-Android-Build067.apk",
+  "notes": "Build067\nUpdated17 Ready cards, including current Fool and Tarot effects. Selected Search cards are shown to both players. Tap printed keywords and general terms on enlarged cards for definitions. Field previews stay open after release; hand previews close on release. Adds When Counterattacked timing. Both players should update before starting new online matches."
 }
