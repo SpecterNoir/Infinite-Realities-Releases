@@ -1,26 +1,19 @@
 # Infinite Realities — Android downloads
 
-The current game is **Infinite Realities Godot**. Flutter development is retired.
+[Download the latest Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
 
-Build053 adds tap previews, card-transfer/shuffle/coin animations, shared speed controls and two Tarot implementations. Includes156 playable cards and149 card images offline. Both players should update before starting new online matches.
+Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build036 automatically syncs the same playable cards and artwork to every game
-app. No Card Studio pairing is needed. Data refreshes on startup, resume and
-while the app is open; verified cards and images remain available offline.
-Opponent artwork downloads automatically, including cards absent from an older
-local collection. Finish your match, then have both players update.
-Android confirms installation.
+Build066 improves match setup, error recovery, room-code entry, deck checks, Help and phone dialogs. It includes 161 playable cards and 154 card images for offline play. AI matches work without an internet connection.
 
-[Download the latest Godot Android release](https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/latest)
+## Updating an installed app
 
-Open the latest release and download its **InfiniteRealities-Godot-Android-BuildNNN.apk** asset. Install over your existing Godot app to retain cards, artwork and decks. Do not uninstall first.
+Open the gear menu → **App updates**. The app checks for updates outside matches and can download them automatically on unmetered Wi-Fi if enabled. Interrupted downloads can resume. Android still asks you to confirm installation. Finish your match before installing an update.
 
-Starting with Godot Build005, open the gear menu → **App updates** to check, download and install later releases directly on your phone. Checks also run automatically outside matches. Interrupted downloads can resume. Android asks you to confirm installation and may first ask for permission to install updates from Infinite Realities. Finish your match before installing.
+Both players should use the current version before starting an online match. If a browser download stalls, cancel that download and retry the APK from the release page. Existing players can use **App updates** instead. Keep your installed app and saved data.
 
-Build007 adds a portrait phone layout, offline starter cards and AI play, automatic collection/artwork sync, and optional automatic update downloads on unmetered Wi-Fi. Paired phones remember their connection and reconnect locally or remotely when the owner desktop is available. You can keep playing offline when it is unavailable.
+## Cards and online play
 
-The Godot app ID is `com.infiniterealities.godot`. The old Flutter app has a different ID; install Godot separately and keep your original data. Import a portable game catalog to bring your cards and artwork.
+Published playable cards, artwork and shared layouts sync automatically. Players do not need to pair with Card Studio. Downloaded data remains available offline. Both players need internet access for an online match; use **Play with a friend** to create or join a room. Help in the app explains reconnecting and includes a support report you can copy when reporting a problem.
 
-These are signed Android playtest releases, not a Google Play or iOS app. This repository contains public downloads/discovery only. It does not contain game source, private rules, user catalogs or publisher credentials.
-
-Build036 adds automatic shared interface updates. Layout edits selected by the owner in desktop Admin reach Players and Admin on desktop and phones automatically. No layout import or selection is needed on your phone.
+These are signed Android playtest releases, not a Google Play or iOS app. The app ID is `com.infiniterealities.godot`. The obsolete Flutter app has a different ID; install Godot separately if migrating from that app. This repository hosts public downloads and service discovery; it does not contain private publisher credentials or Studio project files.
