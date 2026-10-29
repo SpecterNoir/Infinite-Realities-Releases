@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 67,
-  "versionName": "0.67.0",
-  "size": 222451393,
-  "sha256": "6137b052694aa39babe8f40a970b7d2323c76321305763b75e2cb0a4249d9e6d",
+  "versionCode": 68,
+  "versionName": "0.68.0",
+  "size": 222464411,
+  "sha256": "4e752817f6de04321b0258753916ef6b63433ded7e5a5e2d443debeccf9be5b7",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-067/InfiniteRealities-Godot-Admin-Build067.apk.enc",
-  "notes": "Build067\nUpdated17 Ready cards, including current Fool and Tarot effects. Selected Search cards are shown to both players. Tap printed keywords and general terms on enlarged cards for definitions. Field previews stay open after release; hand previews close on release. Adds When Counterattacked timing. Both players should update before starting new online matches.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-068/InfiniteRealities-Godot-Admin-Build068.apk.enc",
+  "notes": "Build068\nFixes Action User taps, including The World on (0) The Fool, and normalizes titled references. Paying an unpaid Hidden Character now reveals it. Adds a full win/loss results screen with both players\u2019 match statistics, fast discard-to-Afterlife animations, wider portrait hand and raised piles, green pulsing effect frames, and corrected animation destinations. Both players should update before starting a new online match.",
   "encryption": "aes-256-ctr",
-  "iv": "7c622d8e32625d6c90571efd775f9bf3"
+  "iv": "03ac267c1f2dc44c4f7e90d370b1a405"
 }
