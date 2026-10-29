@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 64,
-  "versionName": "0.64.0",
-  "size": 222363912,
-  "sha256": "7fb5b3465a476d61407a8a38d413fc85f87aa10a8ae409a167e1855ff6ce5e17",
+  "versionCode": 66,
+  "versionName": "0.66.0",
+  "size": 222391300,
+  "sha256": "5ed592ebe264a94a4f66ca374664498bb6136c974400a6854341b4ff6a36fbb0",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-064/InfiniteRealities-Godot-Admin-Build064.apk.enc",
-  "notes": "Build064\nNew York only extends existing Full Block. Updated unpaid Hidden defeat and payment timing rules. Full Fields can replace a Character when playing another. Select Energy, then a Character to heal or an empty Space for a Token. Hide is below the Character. Landscape battles stay centered around camera/navigation insets. Updated rulebook and FAQ.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-066/InfiniteRealities-Godot-Admin-Build066.apk.enc",
+  "notes": "Build066\nRetryable match setup, progress/error feedback and duplicate-start protection. Clearer Return to match on Home. Full deck-check details, easier room-code entry/pasting and simpler player connection screens. New Help and support with a privacy-conscious report. Clearer sound/motion settings and better-fitting phone dialogs. No gameplay or balance changes.",
   "encryption": "aes-256-ctr",
-  "iv": "aefcc435b096c3be8b7b608a4a8fc940"
+  "iv": "f8b18e8b932c0e402e236e7f870a3cc5"
 }
