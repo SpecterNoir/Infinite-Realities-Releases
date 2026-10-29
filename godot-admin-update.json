@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 68,
-  "versionName": "0.68.0",
-  "size": 222464411,
-  "sha256": "4e752817f6de04321b0258753916ef6b63433ded7e5a5e2d443debeccf9be5b7",
+  "versionCode": 69,
+  "versionName": "0.69.0",
+  "size": 222465183,
+  "sha256": "086349889c08295e5ed85fbb520518fb7cc2691662284899a98c893cfe3e641e",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-068/InfiniteRealities-Godot-Admin-Build068.apk.enc",
-  "notes": "Build068\nFixes Action User taps, including The World on (0) The Fool, and normalizes titled references. Paying an unpaid Hidden Character now reveals it. Adds a full win/loss results screen with both players\u2019 match statistics, fast discard-to-Afterlife animations, wider portrait hand and raised piles, green pulsing effect frames, and corrected animation destinations. Both players should update before starting a new online match.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-069/InfiniteRealities-Godot-Admin-Build069.apk.enc",
+  "notes": "Build069\nFixes Action User taps, including The World on (0) The Fool, and normalizes titled references. Paying an unpaid Hidden Character now reveals it. Adds a full win/loss results screen with both players\u2019 match statistics, fast discard-to-Afterlife animations, wider portrait hand and raised piles, green pulsing effect frames, and corrected animation destinations. Both players should update before starting a new online match.\nPreserves shared animation-speed settings and repairs the Admin animations panel.",
   "encryption": "aes-256-ctr",
-  "iv": "03ac267c1f2dc44c4f7e90d370b1a405"
+  "iv": "70b5cab190de3ecd3f024ea4290d7054"
 }
