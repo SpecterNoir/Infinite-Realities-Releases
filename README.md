@@ -4,7 +4,7 @@
 
 Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build066 improves match setup, error recovery, room-code entry, deck checks, Help and phone dialogs. It includes 161 playable cards and 154 card images for offline play. AI matches work without an internet connection.
+Build067 updates17 Ready cards, reveals selected Search cards to both players, adds definitions by tapping printed card terms, and fixes persistent Field previews. It includes 161 playable cards and 154 card images for offline play. AI matches work without an internet connection.
 
 ## Updating an installed app
 
