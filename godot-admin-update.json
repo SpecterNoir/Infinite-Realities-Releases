@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 69,
-  "versionName": "0.69.0",
-  "size": 222465183,
-  "sha256": "086349889c08295e5ed85fbb520518fb7cc2691662284899a98c893cfe3e641e",
+  "versionCode": 70,
+  "versionName": "0.70.0",
+  "size": 234186628,
+  "sha256": "8288f29be99b8a5186d3669b23f8a1cdb428ad5e70d71a875f3539ffe68148cf",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-069/InfiniteRealities-Godot-Admin-Build069.apk.enc",
-  "notes": "Build069\nFixes Action User taps, including The World on (0) The Fool, and normalizes titled references. Paying an unpaid Hidden Character now reveals it. Adds a full win/loss results screen with both players\u2019 match statistics, fast discard-to-Afterlife animations, wider portrait hand and raised piles, green pulsing effect frames, and corrected animation destinations. Both players should update before starting a new online match.\nPreserves shared animation-speed settings and repairs the Admin animations panel.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-070/InfiniteRealities-Godot-Admin-Build070.apk.enc",
+  "notes": "Build070\nAdds Infinite Realities accounts, separate usernames/display names, all-tester social browsing and last-online status. Profiles show activity, most-played card and optional showcase decks, with customization/visibility controls. Challenge from a profile and accept an in-app invitation to join automatically. Signed-in players retain offline AI and activity sync. Implements all 16 current Ready cards, including the Pirate group; includes 173 playable cards and 166 card images. Both players should update before new online matches. Google linking is planned for later.",
   "encryption": "aes-256-ctr",
-  "iv": "70b5cab190de3ecd3f024ea4290d7054"
+  "iv": "ca5ea818115fd6912b15166cf3111d8c"
 }
