@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 70,
-  "versionName": "0.70.0",
-  "size": 234186628,
-  "sha256": "8288f29be99b8a5186d3669b23f8a1cdb428ad5e70d71a875f3539ffe68148cf",
+  "versionCode": 71,
+  "versionName": "0.71.0",
+  "size": 234193656,
+  "sha256": "ad96adb112927f2705abaae66658f9ae713e5c47444e5680687a4dac8a78f047",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-070/InfiniteRealities-Godot-Admin-Build070.apk.enc",
-  "notes": "Build070\nAdds Infinite Realities accounts, separate usernames/display names, all-tester social browsing and last-online status. Profiles show activity, most-played card and optional showcase decks, with customization/visibility controls. Challenge from a profile and accept an in-app invitation to join automatically. Signed-in players retain offline AI and activity sync. Implements all 16 current Ready cards, including the Pirate group; includes 173 playable cards and 166 card images. Both players should update before new online matches. Google linking is planned for later.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-071/InfiniteRealities-Godot-Admin-Build071.apk.enc",
+  "notes": "Build071: Admin Rules > Test settings changes opening hand, starting Energy for each player, maximum Energy, Energy per turn, empty-Space blocking within range and first-turn draw skipping. Shared settings and card value edits sync without further app updates. Changes apply to new matches; active matches keep their captured rules. Admin must pair with the owner desktop to publish testing settings. Retains accounts, decks and artwork.",
   "encryption": "aes-256-ctr",
-  "iv": "ca5ea818115fd6912b15166cf3111d8c"
+  "iv": "4e965bb9bee529ea2924d6b9349bdfe4"
 }
