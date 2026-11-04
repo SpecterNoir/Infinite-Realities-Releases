@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 72,
-  "versionName": "0.72.0",
-  "size": 234197684,
-  "sha256": "149c1242bc6259dfefa0e18e4a26fc527cf755d9f50847cc00a01ab2a05bf765",
+  "versionCode": 73,
+  "versionName": "0.73.0",
+  "size": 248505376,
+  "sha256": "b45eaaa1889df03f73a23b1a69318f018430fb20e2ff90b89159f58c9d37dbdb",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-072/InfiniteRealities-Godot-Admin-Build072.apk.enc",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-073/InfiniteRealities-Godot-Admin-Build073.apk.enc",
   "notes": "Build072 fixes shared testing-rule sync on desktop and Android. Test settings refresh on opening and before new matches; numeric typing commits on Save. Characters always Block for other Characters within range; only blocking empty Spaces can be toggled. Existing matches keep their captured rules. Retains accounts, decks and artwork.",
   "encryption": "aes-256-ctr",
-  "iv": "c550efce640e363613370a878682a547"
+  "iv": "575c754a81f1130826f689805ef76f75"
 }
