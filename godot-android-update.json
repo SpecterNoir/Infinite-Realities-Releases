@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 71,
-  "versionName": "0.71.0",
-  "size": 234112440,
-  "sha256": "dd11cd2916f03f606b7294543c25094fd3dd8dfcdb022cfd68613bdf8a759592",
+  "versionCode": 72,
+  "versionName": "0.72.0",
+  "size": 234114964,
+  "sha256": "89beaa66e7abadfd6c418265b89827de8ca4912363f95ae0f88414ae1dd545ea",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-071/InfiniteRealities-Godot-Android-Build071.apk",
-  "notes": "Build071: Admin Rules > Test settings changes opening hand, starting Energy for each player, maximum Energy, Energy per turn, empty-Space blocking within range and first-turn draw skipping. Shared settings and card value edits sync without further app updates. Changes apply to new matches; active matches keep their captured rules. Admin must pair with the owner desktop to publish testing settings. Retains accounts, decks and artwork."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-072/InfiniteRealities-Godot-Android-Build072.apk",
+  "notes": "Build072 fixes shared testing-rule sync on desktop and Android. Test settings refresh on opening and before new matches; numeric typing commits on Save. Characters always Block for other Characters within range; only blocking empty Spaces can be toggled. Existing matches keep their captured rules. Retains accounts, decks and artwork."
 }
