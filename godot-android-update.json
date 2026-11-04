@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 72,
-  "versionName": "0.72.0",
-  "size": 234114964,
-  "sha256": "89beaa66e7abadfd6c418265b89827de8ca4912363f95ae0f88414ae1dd545ea",
+  "versionCode": 73,
+  "versionName": "0.73.0",
+  "size": 248423740,
+  "sha256": "d2328142705d71e2a2cb1b452d24bb8b29835193678537b9666cb1d9c4d5ac70",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-072/InfiniteRealities-Godot-Android-Build072.apk",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-073/InfiniteRealities-Godot-Android-Build073.apk",
   "notes": "Build072 fixes shared testing-rule sync on desktop and Android. Test settings refresh on opening and before new matches; numeric typing commits on Save. Characters always Block for other Characters within range; only blocking empty Spaces can be toggled. Existing matches keep their captured rules. Retains accounts, decks and artwork."
 }
