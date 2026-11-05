@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 73,
-  "versionName": "0.73.0",
-  "size": 248423740,
-  "sha256": "d2328142705d71e2a2cb1b452d24bb8b29835193678537b9666cb1d9c4d5ac70",
+  "versionCode": 75,
+  "versionName": "0.75.0",
+  "size": 248443009,
+  "sha256": "989bf04af8c080e2745ef22046930ab67b16f7f16d0336299dc5a0b98a640f89",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-073/InfiniteRealities-Godot-Android-Build073.apk",
-  "notes": "Build072 fixes shared testing-rule sync on desktop and Android. Test settings refresh on opening and before new matches; numeric typing commits on Save. Characters always Block for other Characters within range; only blocking empty Spaces can be toggled. Existing matches keep their captured rules. Retains accounts, decks and artwork."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-075/InfiniteRealities-Godot-Android-Build075.apk",
+  "notes": "Build075 adds easy saved seasonal themes: Christmas, Halloween and Winter, with built-in falling snow, twinkling lights and Halloween embers. Desktop Admin can preview, customize and apply themes to everyone from Settings. Android receives shared theme changes without another update after installing075. Includes highest-first Collection sorting, clearer navigation and accurate version labels. Retains accounts, decks, offline cards and existing match rules."
 }
