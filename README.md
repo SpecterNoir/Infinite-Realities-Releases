@@ -4,7 +4,7 @@
 
 Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build073 implements 35 reviewed Ready cards and expands shared appearance controls: button states, focus, text contrast, backgrounds, stars, borders, depth, density and optional undoable presets. Includes 190 public cards and 182 rendered card images. Improves portrait hand fitting and navigation. Shared card values and testing rules sync without reinstalling. Existing accounts, decks and captured match rules are retained.
+Build075 adds easy saved seasonal themes: Christmas, Halloween and Winter, with built-in falling snow, twinkling lights and Halloween embers. Desktop Admin can preview, customize and apply themes to everyone from Settings. Android receives shared theme changes without another update after installing075. Includes highest-first Collection sorting, clearer navigation and accurate version labels. Retains accounts, decks, offline cards and existing match rules.
 
 ## Updating an installed app
 
