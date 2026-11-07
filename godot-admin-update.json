@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 75,
-  "versionName": "0.75.0",
-  "size": 248524661,
-  "sha256": "34193240e849b7d5be0801830d1caa5f31dc6a0332affed06e5425b83c18c854",
+  "versionCode": 76,
+  "versionName": "0.76.0",
+  "size": 263994268,
+  "sha256": "301bd906ae2f0e76d749f445bd01838803b10a72b960c4c05dfb240fdbd6e6b0",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-075/InfiniteRealities-Godot-Admin-Build075.apk.enc",
-  "notes": "Build075 adds easy saved seasonal themes: Christmas, Halloween and Winter, with built-in falling snow, twinkling lights and Halloween embers. Desktop Admin can preview, customize and apply themes to everyone from Settings. Android receives shared theme changes without another update after installing075. Includes highest-first Collection sorting, clearer navigation and accurate version labels. Retains accounts, decks, offline cards and existing match rules.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-076/InfiniteRealities-Godot-Admin-Build076.apk.enc",
+  "notes": "Build076 adds the Christmas Reindeer, Captain Kidd, and revised Santa Claus and Scrooge. Includes 207 playable cards and 199 rendered images offline. Both players should update before starting a new online match.",
   "encryption": "aes-256-ctr",
-  "iv": "c068b37d12cdbc353c165820bc220dd3"
+  "iv": "b67733d7033c83f196e60a1dc42a87b4"
 }
