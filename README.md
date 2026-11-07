@@ -4,7 +4,7 @@
 
 Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build075 adds easy saved seasonal themes: Christmas, Halloween and Winter, with built-in falling snow, twinkling lights and Halloween embers. Desktop Admin can preview, customize and apply themes to everyone from Settings. Android receives shared theme changes without another update after installing075. Includes highest-first Collection sorting, clearer navigation and accurate version labels. Retains accounts, decks, offline cards and existing match rules.
+Build076 includes the Christmas Reindeer, Captain Kidd, and the revised Santa Claus and Scrooge. It ships with 207 playable cards and 199 rendered images for offline play. The seasonal themes from Build075 are still available in Settings.
 
 ## Updating an installed app
 
@@ -14,6 +14,6 @@ Both players should use the current version before starting an online match. If 
 
 ## Cards and online play
 
-Published playable cards, artwork and shared layouts sync automatically. Players do not need to pair with Card Studio. Downloaded data remains available offline. Both players need internet access for an online match; use **Play with a friend** to create or join a room. Help in the app explains reconnecting and includes a support report you can copy when reporting a problem.
+Published playable cards, artwork and shared layouts sync automatically. Players do not need to pair with Card Studio. Downloaded data remains available offline. Create an Infinite Realities account or sign in while online. After that, AI matches and local decks work offline with your saved sign-in. To play online, open someone’s profile in **Social** and tap **Challenge**. Keep both apps open so the other player can accept and join automatically. Room codes are also available under **Play with a friend**. Help in the app explains reconnecting and includes a support report you can copy when reporting a problem.
 
 These are signed Android playtest releases, not a Google Play or iOS app. The app ID is `com.infiniterealities.godot`. The obsolete Flutter app has a different ID; install Godot separately if migrating from that app. This repository hosts public downloads and service discovery; it does not contain private publisher credentials or Studio project files.
