@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 75,
-  "versionName": "0.75.0",
-  "size": 248443009,
-  "sha256": "989bf04af8c080e2745ef22046930ab67b16f7f16d0336299dc5a0b98a640f89",
+  "versionCode": 76,
+  "versionName": "0.76.0",
+  "size": 263908800,
+  "sha256": "dea8bd71695d86f762cbb9265bb9f1f977cc34a43bc01674e4e1573d12c185d4",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-075/InfiniteRealities-Godot-Android-Build075.apk",
-  "notes": "Build075 adds easy saved seasonal themes: Christmas, Halloween and Winter, with built-in falling snow, twinkling lights and Halloween embers. Desktop Admin can preview, customize and apply themes to everyone from Settings. Android receives shared theme changes without another update after installing075. Includes highest-first Collection sorting, clearer navigation and accurate version labels. Retains accounts, decks, offline cards and existing match rules."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-076/InfiniteRealities-Godot-Android-Build076.apk",
+  "notes": "Build076 adds the Christmas Reindeer, Captain Kidd, and revised Santa Claus and Scrooge. Includes 207 playable cards and 199 rendered images offline. Both players should update before starting a new online match."
 }
