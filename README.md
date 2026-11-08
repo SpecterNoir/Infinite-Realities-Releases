@@ -4,7 +4,7 @@
 
 Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build078 adds drag-to-play and drag-to-move, counterattack choices after the hit, and clearer mobile match layouts. Match settings remember optional drop confirmation and Search ordering. The bundled collection includes 207 playable cards and 199 rendered images for offline play.
+Build079 gives picked-up cards a small lift, shows drop highlights only on legal destinations, and pins a hand preview after 1.2 seconds. The match gear opens Match settings, including an optional holographic finish.
 
 ## Updating an installed app
 
