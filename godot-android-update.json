@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 77,
-  "versionName": "0.77.0",
-  "size": 263939505,
-  "sha256": "8feea8d5d515b19a6d9b67d90a27db441511973c145dd324eb4508b44f01018c",
+  "versionCode": 78,
+  "versionName": "0.78.0",
+  "size": 263949585,
+  "sha256": "64bfe5dbed366b3adf7c8c2b4a78ed6dd6ac75c8b5389be0c3d3b57dd769bab7",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-077/InfiniteRealities-Godot-Android-Build077.apk",
-  "notes": "Build077 polishes the Android interface. Try the tutorial offline before signing in, recover from empty card searches, and check a deck while adding cards. Duels have clearer pile labels and more readable cards when artwork is unavailable. Includes updates to room setup, card inspection, and profile icon cropping.\n\nBuild076 adds the Christmas Reindeer, Captain Kidd, and revised Santa Claus and Scrooge. Includes 207 playable cards and 199 rendered images offline. Both players should update before starting a new online match."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-078/InfiniteRealities-Godot-Android-Build078.apk",
+  "notes": "Build078 adds drag-to-play and drag-to-move, clearer attack targets, in-range counterattacks after the hit, larger mobile hand and deck views, and a larger Search panel. Match settings remember optional drop confirmation and Search ordering. Both players should update before starting a new online match.\n\nBuild077 polishes the Android interface. Try the tutorial offline before signing in, recover from empty card searches, and check a deck while adding cards. Duels have clearer pile labels and more readable cards when artwork is unavailable. Includes updates to room setup, card inspection, and profile icon cropping.\n\nBuild076 adds the Christmas Reindeer, Captain Kidd, and revised Santa Claus and Scrooge. Includes 207 playable cards and 199 rendered images offline. Both players should update before starting a new online match."
 }
