@@ -4,7 +4,7 @@
 
 Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build079 gives picked-up cards a small lift, shows drop highlights only on legal destinations, and pins a hand preview after 1.2 seconds. The match gear opens Match settings, including an optional holographic finish.
+Build080 adds new Energy, Refresh and Counterattack animations. Shared animation choices set in Admin apply automatically after updating.
 
 ## Updating an installed app
 
