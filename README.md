@@ -4,7 +4,7 @@
 
 Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build080 adds new Energy, Refresh and Counterattack animations. Shared animation choices set in Admin apply automatically after updating.
+Build081 adds a new default card back and per-deck card-back selection. Shared card-back designs sync automatically after updating.
 
 ## Updating an installed app
 
