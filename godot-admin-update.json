@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 79,
-  "versionName": "0.79.0",
-  "size": 264039627,
-  "sha256": "535e447fe4b486f4e18dbaf7ea2b2e480cb867a90cda8403b82318e95bbcc020",
+  "versionCode": 80,
+  "versionName": "0.80.0",
+  "size": 264044675,
+  "sha256": "c3fdb6723394a0f981f0b07ce4b26ce325e99cec69c3b94ffab89e869d00ac5d",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-079/InfiniteRealities-Godot-Admin-Build079.apk.enc",
-  "notes": "Build079 adds a holographic finish option, clearer drag feedback and a 1.2-second hand preview hold. The match gear opens Match settings. Admin can save testing rules on-device or confirm a shared save through paired Card Studio.\n\nBuild078 adds drag-to-play and drag-to-move, clearer attack targets, in-range counterattacks after the hit, larger mobile hand and deck views, and a larger Search panel. Match settings remember optional drop confirmation and Search ordering. Both players should update before starting a new online match.\n\nBuild077 polishes the Android interface. Try the tutorial offline before signing in, recover from empty card searches, and check a deck while adding cards. Duels have clearer pile labels and more readable cards when artwork is unavailable. Includes updates to room setup, card inspection, and profile icon cropping.\n\nBuild076 adds the Christmas Reindeer, Captain Kidd, and revised Santa Claus and Scrooge. Includes 207 playable cards and 199 rendered images offline. Both players should update before starting a new online match.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-080/InfiniteRealities-Godot-Admin-Build080.apk.enc",
+  "notes": "Build080 adds live animation previews, per-animation switches and updated Energy, Refresh and Counterattack effects. Admin can publish animation choices for everyone. Older clients need the update to apply the switches.\n\nBuild079 adds a holographic finish option, clearer drag feedback and a 1.2-second hand preview hold. The match gear opens Match settings. Admin can save testing rules on-device or confirm a shared save through paired Card Studio.\n\nBuild078 adds drag-to-play and drag-to-move, clearer attack targets, in-range counterattacks after the hit, larger mobile hand and deck views, and a larger Search panel. Match settings remember optional drop confirmation and Search ordering. Both players should update before starting a new online match.\n\nBuild077 polishes the Android interface. Try the tutorial offline before signing in, recover from empty card searches, and check a deck while adding cards. Duels have clearer pile labels and more readable cards when artwork is unavailable. Includes updates to room setup, card inspection, and profile icon cropping.\n\nBuild076 adds the Christmas Reindeer, Captain Kidd, and revised Santa Claus and Scrooge. Includes 207 playable cards and 199 rendered images offline. Both players should update before starting a new online match.",
   "encryption": "aes-256-ctr",
-  "iv": "6976538dddb8bb0a220c62dd3305a433"
+  "iv": "abd335071f125205fb777ff33f50b557"
 }
