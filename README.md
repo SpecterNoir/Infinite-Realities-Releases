@@ -4,7 +4,7 @@
 
 Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build082 adds music and screen fades, keeps looked-at Search cards visible, and supports shared animation and sound choices.
+Build083 adds the animated mobile title, Game Track 1 during matches, and the latest Ready cards. Update before starting new online matches.
 
 ## Updating an installed app
 
