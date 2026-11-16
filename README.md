@@ -4,7 +4,7 @@
 
 Open the release and download **InfiniteRealities-Godot-Android-BuildNNN.apk**. Install over the existing Infinite Realities Godot app to retain your cards, artwork and decks. Do not uninstall first. Android asks you to confirm installation and may ask you to allow installations from your browser.
 
-Build085 refreshes the mobile home with the new logo, glowing card frames, animated lights and cleaner navigation. Play opens AI setup; challenge other players through Social. Finished matches release the connection automatically. Once-per-turn effects apply to each individual physical card. Tutorial is in More; owner tools are under More > Admin. Update before starting new online matches.
+Build086 rebuilds the mobile home with actual illustrated cards, manually swipeable featured sets, dimensional scenery and platinum interface artwork. Card inspection opens the exact displayed card. Collection, deck cases, Social, More and navigation have updated presentation. Play opens AI setup or resumes your ongoing match; new player matches start through Social. Tutorial is in More, and owner tools are under More > Admin.
 
 ## Updating an installed app
 
