@@ -9,5 +9,5 @@
   "sha256": "7f5d434b5027713218b2af7d05395f0925bc5b10df2042a412cf22951dff7cc7",
   "minSdk": 24,
   "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-094/InfiniteRealities-Godot-Android-Build094.apk",
-  "notes": "Build094 makes Admin account management available through your normal Admin account login, without a QR code or separate owner code. Simplifies the PC server panel. Preserves existing accounts, decks, chats, pairings and match recordings.\n\nBuild093 \u2014 Challenge recovery\nSending or accepting a new challenge replaces the previous match connection automatically, including when its server is unavailable. Leaving no longer gets stuck waiting for an old connection. Old departures retry separately. Keeps the five most recent online match recordings privately on this device. Install over the current app to retain your data."
+  "notes": "Build094 includes gameplay fixes and app improvements."
 }
