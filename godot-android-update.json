@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 94,
-  "versionName": "0.94.0",
-  "size": 406732777,
-  "sha256": "7f5d434b5027713218b2af7d05395f0925bc5b10df2042a412cf22951dff7cc7",
+  "versionCode": 95,
+  "versionName": "0.95.0",
+  "size": 406744587,
+  "sha256": "247d3e6bc09fa5369200fa59ff028c32f8fd8fbf8dc4bc5bc9fb3a041acde174",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-094/InfiniteRealities-Godot-Android-Build094.apk",
-  "notes": "Build094 includes gameplay fixes and app improvements."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-095/InfiniteRealities-Godot-Android-Build095.apk",
+  "notes": "Build095 improves profiles, social activity, language filtering and scrolling."
 }
