@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 93,
-  "versionName": "0.93.0",
-  "size": 406825425,
-  "sha256": "6a7d209fd4f00c3752e26d672f7b65ab78f331a08a3278a1fcf47d0295242e17",
+  "versionCode": 94,
+  "versionName": "0.94.0",
+  "size": 406825597,
+  "sha256": "3fcc31447d6e554cd0ecaba820b555003d54034821bdd51b7b81b93be2695d85",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-093/InfiniteRealities-Godot-Admin-Build093.apk.enc",
-  "notes": "Build093 \u2014 Challenge recovery\nSending or accepting a new challenge replaces the previous match connection automatically, including when its server is unavailable. Leaving no longer gets stuck waiting for an old connection. Old departures retry separately. Keeps the five most recent online match recordings privately on this device. Install over the current app to retain your data.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-094/InfiniteRealities-Godot-Admin-Build094.apk.enc",
+  "notes": "Build094 makes Admin account management available through your normal Admin account login, without a QR code or separate owner code. Simplifies the PC server panel. Preserves existing accounts, decks, chats, pairings and match recordings.\n\nBuild093 \u2014 Challenge recovery\nSending or accepting a new challenge replaces the previous match connection automatically, including when its server is unavailable. Leaving no longer gets stuck waiting for an old connection. Old departures retry separately. Keeps the five most recent online match recordings privately on this device. Install over the current app to retain your data.",
   "encryption": "aes-256-ctr",
-  "iv": "73de1b7e2fdcd42f07ff3ab4192f1079"
+  "iv": "6907a1424b739fa46a6f65f3f384bd08"
 }
