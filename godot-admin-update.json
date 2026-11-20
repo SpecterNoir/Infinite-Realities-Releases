@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 96,
-  "versionName": "0.96.0",
-  "size": 406843706,
-  "sha256": "fcd2fa268b906743aaed5a54d92d3115a7377ece1c1e156819b26843fb36368d",
+  "versionCode": 97,
+  "versionName": "0.97.0",
+  "size": 406860713,
+  "sha256": "dba1b80d6594234459aea31f16c97c98fd22cb2c518bb8666545f9ed8254288c",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-096/InfiniteRealities-Godot-Admin-Build096.apk.enc",
-  "notes": "Build096 fixes comment layout, compact artwork editing and duplicate message shortcuts.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-097/InfiniteRealities-Godot-Admin-Build097.apk.enc",
+  "notes": "Build097 brings Admin up to date with live Card Studio copy limits, Community and profile navigation, improved keyboard spacing and pickers, and the empty Space Block fix.",
   "encryption": "aes-256-ctr",
-  "iv": "1e829e5668c9e048aebc292c4ca8945e"
+  "iv": "4c861baf111c8fd7e7707211b2323f76"
 }
