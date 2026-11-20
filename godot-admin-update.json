@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 97,
-  "versionName": "0.97.0",
-  "size": 406860713,
-  "sha256": "dba1b80d6594234459aea31f16c97c98fd22cb2c518bb8666545f9ed8254288c",
+  "versionCode": 98,
+  "versionName": "0.98.0",
+  "size": 406870350,
+  "sha256": "1a4c76a415ed23fba9bc79036334a1ff4228fde49d48ce1195d16e138773fd4d",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-097/InfiniteRealities-Godot-Admin-Build097.apk.enc",
-  "notes": "Build097 brings Admin up to date with live Card Studio copy limits, Community and profile navigation, improved keyboard spacing and pickers, and the empty Space Block fix.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-098/InfiniteRealities-Godot-Admin-Build098.apk.enc",
+  "notes": "Build098 adds a faster Your Turn cue, clearer zero-Life and finishing-strike feedback, and easier Back navigation on phones.",
   "encryption": "aes-256-ctr",
-  "iv": "4c861baf111c8fd7e7707211b2323f76"
+  "iv": "1e4eb027a94cea081397e7294de539c4"
 }
