@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 95,
-  "versionName": "0.95.0",
-  "size": 406837399,
-  "sha256": "f2a25c3338175814ff19fae7b96f13965b2c41c479d1e3c8261fdfd524c98808",
+  "versionCode": 96,
+  "versionName": "0.96.0",
+  "size": 406843706,
+  "sha256": "fcd2fa268b906743aaed5a54d92d3115a7377ece1c1e156819b26843fb36368d",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-095/InfiniteRealities-Godot-Admin-Build095.apk.enc",
-  "notes": "Build095 improves profiles, social activity, language filtering and scrolling.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-096/InfiniteRealities-Godot-Admin-Build096.apk.enc",
+  "notes": "Build096 fixes comment layout, compact artwork editing and duplicate message shortcuts.",
   "encryption": "aes-256-ctr",
-  "iv": "cbcc08fca9519b64fade948e91d768bc"
+  "iv": "1e829e5668c9e048aebc292c4ca8945e"
 }
