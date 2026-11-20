@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 95,
-  "versionName": "0.95.0",
-  "size": 406744587,
-  "sha256": "247d3e6bc09fa5369200fa59ff028c32f8fd8fbf8dc4bc5bc9fb3a041acde174",
+  "versionCode": 96,
+  "versionName": "0.96.0",
+  "size": 406752046,
+  "sha256": "14f54ae4fd330b4dc3ac959959483704a498aaea61de4b80136303edd609409f",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-095/InfiniteRealities-Godot-Android-Build095.apk",
-  "notes": "Build095 improves profiles, social activity, language filtering and scrolling."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-096/InfiniteRealities-Godot-Android-Build096.apk",
+  "notes": "Build096 fixes comment layout, compact artwork editing and duplicate message shortcuts."
 }
