@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 96,
-  "versionName": "0.96.0",
-  "size": 406752046,
-  "sha256": "14f54ae4fd330b4dc3ac959959483704a498aaea61de4b80136303edd609409f",
+  "versionCode": 97,
+  "versionName": "0.97.0",
+  "size": 406775897,
+  "sha256": "ad6a54e2fdaba20c0951c9f5e1792dd07b1857d268e3b3425b072ecbd0e7f2f9",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-096/InfiniteRealities-Godot-Android-Build096.apk",
-  "notes": "Build096 fixes comment layout, compact artwork editing and duplicate message shortcuts."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-097/InfiniteRealities-Godot-Android-Build097.apk",
+  "notes": "Build097 adds live card copy-limit sync from Card Studio and improves Community browsing, comment and profile navigation, keyboard spacing, artwork pickers, and deck selection on Android."
 }
