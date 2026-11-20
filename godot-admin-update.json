@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 98,
-  "versionName": "0.98.0",
-  "size": 406870350,
-  "sha256": "1a4c76a415ed23fba9bc79036334a1ff4228fde49d48ce1195d16e138773fd4d",
+  "versionCode": 99,
+  "versionName": "0.99.0",
+  "size": 406923376,
+  "sha256": "255c4047e526418a8c81eef45fc699762a6445dc15fc1132117dd204a31e42f8",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-098/InfiniteRealities-Godot-Admin-Build098.apk.enc",
-  "notes": "Build098 adds a faster Your Turn cue, clearer zero-Life and finishing-strike feedback, and easier Back navigation on phones.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-099/InfiniteRealities-Godot-Admin-Build099.apk.enc",
+  "notes": "Build099 improves the finishing strike, card-effect previews, and Community browsing; updated combat rules apply offline, while online matches continue using the existing rules for now.",
   "encryption": "aes-256-ctr",
-  "iv": "1e4eb027a94cea081397e7294de539c4"
+  "iv": "99a8764dbed0fb9e15d7042c4bcecec2"
 }
