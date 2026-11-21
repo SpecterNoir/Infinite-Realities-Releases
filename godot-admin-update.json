@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 99,
-  "versionName": "0.99.0",
-  "size": 406923376,
-  "sha256": "255c4047e526418a8c81eef45fc699762a6445dc15fc1132117dd204a31e42f8",
+  "versionCode": 100,
+  "versionName": "0.99.1",
+  "size": 406941776,
+  "sha256": "1f581b776224a9de2f8260c28259ffe434bc1793cdb03e3c53e5fe73a7946915",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-099/InfiniteRealities-Godot-Admin-Build099.apk.enc",
-  "notes": "Build099 improves the finishing strike, card-effect previews, and Community browsing; updated combat rules apply offline, while online matches continue using the existing rules for now.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-100/InfiniteRealities-Godot-Admin-Build100.apk.enc",
+  "notes": "Build 100 shows the infinity symbol on unlimited-copy cards and displays Wolves with its exact three-copy limit.",
   "encryption": "aes-256-ctr",
-  "iv": "99a8764dbed0fb9e15d7042c4bcecec2"
+  "iv": "2c72ce33bb4227fc5c7ff95dd1f03171"
 }
