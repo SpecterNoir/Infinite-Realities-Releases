@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 105,
-  "versionName": "0.105.0",
-  "size": 417542861,
-  "sha256": "3792f587fe027bc687d1b70ec9833e095f86a676accb8eb821e87bf3ee3e4be8",
+  "versionCode": 107,
+  "versionName": "0.107.0",
+  "size": 417554532,
+  "sha256": "8a2141de701577827f794f61c12d2a8739045af3272bad1a07eb093154bfd2e2",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-105/InfiniteRealities-Godot-Android-Build105.apk",
-  "notes": "Build105 makes shared theme previews and current music assignments easier to find on Android Admin. This update also preserves saved online matches and prevents incompatible challenge acceptance when the host requires an update. Online matches continue to use the current match host rules."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-107/InfiniteRealities-Godot-Android-Build107.apk",
+  "notes": "Build107 puts Themes and effects and Music assignments inside Open Admin on Android and Windows."
 }
