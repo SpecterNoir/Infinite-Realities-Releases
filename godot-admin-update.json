@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 107,
-  "versionName": "0.107.0",
-  "size": 417653600,
-  "sha256": "dbc5fa8f51be17f7e017af3ba4fefecf9cee1b062ea0537d50f059e42b40c91a",
+  "versionCode": 108,
+  "versionName": "0.108.0",
+  "size": 440588593,
+  "sha256": "b7da0a724043cd28596247255c77c9391598523e1d0d7de5d2b6e31789041cf2",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-107/InfiniteRealities-Godot-Admin-Build107.apk.enc",
-  "notes": "Build107 puts Themes and effects and Music assignments inside Open Admin on Android and Windows.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-108/InfiniteRealities-Godot-Admin-Build108.apk.enc",
+  "notes": "Build108 brings Apply next to the Android Admin theme presets and keeps your draft when the shared theme changes.",
   "encryption": "aes-256-ctr",
-  "iv": "7a92bb631d75823559b621eb765e5c09"
+  "iv": "078eb74947879b03addf1d0ae5aaefbc"
 }
