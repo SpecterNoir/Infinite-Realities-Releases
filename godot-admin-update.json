@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 103,
-  "versionName": "0.103.0",
-  "size": 417641734,
-  "sha256": "c4244a43df457144c7740e6178d03851ef2b144ffdb1ff61ba24df40d4adbae3",
+  "versionCode": 105,
+  "versionName": "0.105.0",
+  "size": 417636649,
+  "sha256": "a76268ef8bd8664389b58814c71a594a40e9812d80cdbdd64822be13aaa90d27",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-103/InfiniteRealities-Godot-Admin-Build103.apk.enc",
-  "notes": "Build103 adds Christmas, shared per-screen music assignments, 15 reviewed cards, and the revised Dracula's Bats. Existing theme and music selections are kept. Card rules in an online match follow the current match host.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-105/InfiniteRealities-Godot-Admin-Build105.apk.enc",
+  "notes": "Build105 makes shared theme previews and current music assignments easier to find on Android Admin. This update also preserves saved online matches and prevents incompatible challenge acceptance when the host requires an update. Online matches continue to use the current match host rules.",
   "encryption": "aes-256-ctr",
-  "iv": "f5c7c1d007f1621a9c1308da3ae1ce67"
+  "iv": "de5f9bd5aa3b80435f3e0596ff8fa9e8"
 }
