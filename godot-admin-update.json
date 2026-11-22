@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 100,
-  "versionName": "0.99.1",
-  "size": 406941776,
-  "sha256": "1f581b776224a9de2f8260c28259ffe434bc1793cdb03e3c53e5fe73a7946915",
+  "versionCode": 103,
+  "versionName": "0.103.0",
+  "size": 417641734,
+  "sha256": "c4244a43df457144c7740e6178d03851ef2b144ffdb1ff61ba24df40d4adbae3",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-100/InfiniteRealities-Godot-Admin-Build100.apk.enc",
-  "notes": "Build 100 shows the infinity symbol on unlimited-copy cards and displays Wolves with its exact three-copy limit.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-103/InfiniteRealities-Godot-Admin-Build103.apk.enc",
+  "notes": "Build103 adds Christmas, shared per-screen music assignments, 15 reviewed cards, and the revised Dracula's Bats. Existing theme and music selections are kept. Card rules in an online match follow the current match host.",
   "encryption": "aes-256-ctr",
-  "iv": "2c72ce33bb4227fc5c7ff95dd1f03171"
+  "iv": "f5c7c1d007f1621a9c1308da3ae1ce67"
 }

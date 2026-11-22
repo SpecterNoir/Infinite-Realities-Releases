@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 100,
-  "versionName": "0.99.1",
-  "size": 406844300,
-  "sha256": "171b0f3048d6b196b52d294e8586ec1ce274b377561350e9a8a4001aed6f9ed9",
+  "versionCode": 103,
+  "versionName": "0.103.0",
+  "size": 417547986,
+  "sha256": "3081b72ac3a00b18bd0030d865c7edae863bf406b7b783228ea40923d8a09420",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-100/InfiniteRealities-Godot-Android-Build100.apk",
-  "notes": "Build 100 shows the infinity symbol on unlimited-copy cards and displays Wolves with its exact three-copy limit."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-103/InfiniteRealities-Godot-Android-Build103.apk",
+  "notes": "Build103 adds Christmas, shared per-screen music assignments, 15 reviewed cards, and the revised Dracula's Bats. Existing theme and music selections are kept. Card rules in an online match follow the current match host."
 }
