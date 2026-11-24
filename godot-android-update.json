@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 111,
-  "versionName": "0.111.0",
-  "size": 441431270,
-  "sha256": "9971b942468d33a2fc1a725621b3bf5bbb80d4004090d0d8649a435c12c483a8",
+  "versionCode": 112,
+  "versionName": "0.112.0",
+  "size": 450676446,
+  "sha256": "d3e12f3c978570cd1a15bc516ff4719180c5b2bb13ac702058404a6deb2d64e7",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-111/InfiniteRealities-Godot-Android-Build111.apk",
-  "notes": "Build 111 adds Token cards and the automatic Extra Deck."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-112/InfiniteRealities-Godot-Android-Build112.apk",
+  "notes": "Build 112 adds ten Ready cards, including The Lost World and Maiasaura."
 }
