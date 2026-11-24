@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 110,
-  "versionName": "0.110.0",
-  "size": 441422318,
-  "sha256": "fe8c60e72aed89fc046b796cd28973da6a4f148e46e539e00f61d09db0fb4bde",
+  "versionCode": 111,
+  "versionName": "0.111.0",
+  "size": 441431270,
+  "sha256": "9971b942468d33a2fc1a725621b3bf5bbb80d4004090d0d8649a435c12c483a8",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-110/InfiniteRealities-Godot-Android-Build110.apk",
-  "notes": "Build 110 centers Location artwork, adds music previews, and updates the Ready cards."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-111/InfiniteRealities-Godot-Android-Build111.apk",
+  "notes": "Build 111 adds Token cards and the automatic Extra Deck."
 }

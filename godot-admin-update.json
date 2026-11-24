@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 110,
-  "versionName": "0.110.0",
-  "size": 441540050,
-  "sha256": "36a743ced250d1dcaa223a00eb948db72d7fa0e5ccffbaecf80ff8b9bd6d0001",
+  "versionCode": 111,
+  "versionName": "0.111.0",
+  "size": 441548306,
+  "sha256": "c37edc20fca58da3ff135e852b7e1c92fbc0daf201560eba9a832c95f6c108df",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-110/InfiniteRealities-Godot-Admin-Build110.apk.enc",
-  "notes": "Build 110 centers Location artwork, adds music previews, and updates the Ready cards.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-111/InfiniteRealities-Godot-Admin-Build111.apk.enc",
+  "notes": "Build 111 adds Token cards and the automatic Extra Deck.",
   "encryption": "aes-256-ctr",
-  "iv": "471801ef51892a6b43089a5080f2709e"
+  "iv": "35650d11cbb75c8e0a8a4beada6fadd4"
 }
