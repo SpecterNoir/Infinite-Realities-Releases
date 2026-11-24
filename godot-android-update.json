@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 108,
-  "versionName": "0.108.0",
-  "size": 440489557,
-  "sha256": "110e46a5d56369fa3d8b37f6df6f980114c5e5ca02c724b27b48cafc17b66cc2",
+  "versionCode": 109,
+  "versionName": "0.109.0",
+  "size": 440496328,
+  "sha256": "b5506cc69b08485483e0ed2f5b9f6d89404e276037830db4305eeabfa2a327f7",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-108/InfiniteRealities-Godot-Android-Build108.apk",
-  "notes": "Build108 brings Apply next to the Android Admin theme presets and keeps your draft when the shared theme changes."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-109/InfiniteRealities-Godot-Android-Build109.apk",
+  "notes": "Build 109 shows the selected Play background, restores the full music picker, and prevents accidental taps while scrolling."
 }

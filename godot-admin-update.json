@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 108,
-  "versionName": "0.108.0",
-  "size": 440588593,
-  "sha256": "b7da0a724043cd28596247255c77c9391598523e1d0d7de5d2b6e31789041cf2",
+  "versionCode": 109,
+  "versionName": "0.109.0",
+  "size": 440595388,
+  "sha256": "ce6c20eab160cbf82c2cfcd5c6ede73e53932f02d831023011eb97de70a9e186",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-108/InfiniteRealities-Godot-Admin-Build108.apk.enc",
-  "notes": "Build108 brings Apply next to the Android Admin theme presets and keeps your draft when the shared theme changes.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-109/InfiniteRealities-Godot-Admin-Build109.apk.enc",
+  "notes": "Build 109 shows the selected Play background, restores the full music picker, and prevents accidental taps while scrolling.",
   "encryption": "aes-256-ctr",
-  "iv": "078eb74947879b03addf1d0ae5aaefbc"
+  "iv": "a1337dfa8ce3b51efe958352bbfde1f5"
 }
