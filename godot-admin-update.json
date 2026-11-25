@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 117,
-  "versionName": "0.117.0",
-  "size": 454774750,
-  "sha256": "fe7e6e72e00abeafb877ff8a88d05ce57cf25669e8e7368af2581a9ce1aba96e",
+  "versionCode": 118,
+  "versionName": "0.118.0",
+  "size": 454782810,
+  "sha256": "ae30fc92133340297093edb5948c0ab417848379e6dfc96d672cfb8ba0322ebe",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-117/InfiniteRealities-Godot-Admin-Build117.apk.enc",
-  "notes": "Build117 shows the actual card and highlights its printed effect throughout resolution, with clearer instructions beside choices.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-118/InfiniteRealities-Godot-Admin-Build118.apk.enc",
+  "notes": "Build 118 refreshes the game server address before sending a Community challenge.",
   "encryption": "aes-256-ctr",
-  "iv": "c367bb55a612cb0fcfe6aad3103a5ddd"
+  "iv": "5e7b11d04b998d3d355c85252e777fa5"
 }
