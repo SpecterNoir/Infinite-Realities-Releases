@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 120,
-  "versionName": "0.120.0",
-  "size": 466518301,
-  "sha256": "2d6a2be5ff525c714d64ef090ac2665d3f156e3e49d90268a7f609d5280e37c1",
+  "versionCode": 122,
+  "versionName": "0.122.0",
+  "size": 470694017,
+  "sha256": "3886fc2caaff111c739b1921f191e5bbdc18c95d50a7fedc36d3ef04e0067155",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-120/InfiniteRealities-Godot-Admin-Build120.apk.enc",
-  "notes": "Build120 keeps the full card visible and highlights printed effect text on updated artwork.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-122/InfiniteRealities-Godot-Admin-Build122.apk.enc",
+  "notes": "Build122 adds seven reviewed Ready cards, including the Dinosaur Hatchling Token.",
   "encryption": "aes-256-ctr",
-  "iv": "a547b9dd32e34aaefbfc5d200686d1ba"
+  "iv": "5278cef1a39b74fead5f65142e57eac6"
 }

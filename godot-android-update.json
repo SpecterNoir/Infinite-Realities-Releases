@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 120,
-  "versionName": "0.120.0",
-  "size": 466370193,
-  "sha256": "e448183d01f6085e95347434b1169636b9bfce998ab06265c7fc9314e9caa116",
+  "versionCode": 122,
+  "versionName": "0.122.0",
+  "size": 470543133,
+  "sha256": "1c13a63a79d6a57a0ed89663891944c72802855e6fa53909ebdd9d79fb6557fb",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-120/InfiniteRealities-Godot-Android-Build120.apk",
-  "notes": "Build120 keeps the full card visible and highlights printed effect text on updated artwork."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-122/InfiniteRealities-Godot-Android-Build122.apk",
+  "notes": "Build122 adds seven reviewed Ready cards, including the Dinosaur Hatchling Token."
 }
