@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 113,
-  "versionName": "0.113.0",
-  "size": 454631030,
-  "sha256": "89fd1720dde80d18a2b1b064f6e663b1f5a29359ff111d8af0b1ff0b27ffb939",
+  "versionCode": 114,
+  "versionName": "0.114.0",
+  "size": 454693106,
+  "sha256": "85655b346e5d630158a3529af5faf3dd4cc60d7ba1d5905da5cba3a2dcebfc45",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-113/InfiniteRealities-Godot-Admin-Build113.apk.enc",
-  "notes": "Build 113 restores missing cards and updates effects that changed in Card Studio.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-114/InfiniteRealities-Godot-Admin-Build114.apk.enc",
+  "notes": "Build 114 improves Expert AI and adds ten fixed decks to Admin Balance Testing.",
   "encryption": "aes-256-ctr",
-  "iv": "fe6cf213e3f8115457071dacf9065141"
+  "iv": "b247dd719fb97f3ea682c0f05a551a33"
 }
