@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 115,
-  "versionName": "0.115.0",
-  "size": 454715918,
-  "sha256": "2f05340f3e05def6227a32dd60f78618c1c4e22d909d92d9b02a88c0fca88ed1",
+  "versionCode": 117,
+  "versionName": "0.117.0",
+  "size": 454774750,
+  "sha256": "fe7e6e72e00abeafb877ff8a88d05ce57cf25669e8e7368af2581a9ce1aba96e",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-115/InfiniteRealities-Godot-Admin-Build115.apk.enc",
-  "notes": "Build115 improves Expert AI, rebuilds the fixed testing decks, and fixes simultaneous Port Royal and Nassau prompts.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-117/InfiniteRealities-Godot-Admin-Build117.apk.enc",
+  "notes": "Build117 shows the actual card and highlights its printed effect throughout resolution, with clearer instructions beside choices.",
   "encryption": "aes-256-ctr",
-  "iv": "dbcaca9719cb0405bf58e494eb0d4bb2"
+  "iv": "c367bb55a612cb0fcfe6aad3103a5ddd"
 }
