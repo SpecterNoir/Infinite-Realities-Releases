@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 118,
-  "versionName": "0.118.0",
-  "size": 454636954,
-  "sha256": "6117c46839876686e5a5ece21e7633508cb39d17291b65e9ba473cc32564f86e",
+  "versionCode": 120,
+  "versionName": "0.120.0",
+  "size": 466370193,
+  "sha256": "e448183d01f6085e95347434b1169636b9bfce998ab06265c7fc9314e9caa116",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-118/InfiniteRealities-Godot-Android-Build118.apk",
-  "notes": "Build 118 refreshes the game server address before sending a Community challenge."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-120/InfiniteRealities-Godot-Android-Build120.apk",
+  "notes": "Build120 keeps the full card visible and highlights printed effect text on updated artwork."
 }
