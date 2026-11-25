@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 114,
-  "versionName": "0.114.0",
-  "size": 454693106,
-  "sha256": "85655b346e5d630158a3529af5faf3dd4cc60d7ba1d5905da5cba3a2dcebfc45",
+  "versionCode": 115,
+  "versionName": "0.115.0",
+  "size": 454715918,
+  "sha256": "2f05340f3e05def6227a32dd60f78618c1c4e22d909d92d9b02a88c0fca88ed1",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-114/InfiniteRealities-Godot-Admin-Build114.apk.enc",
-  "notes": "Build 114 improves Expert AI and adds ten fixed decks to Admin Balance Testing.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-115/InfiniteRealities-Godot-Admin-Build115.apk.enc",
+  "notes": "Build115 improves Expert AI, rebuilds the fixed testing decks, and fixes simultaneous Port Royal and Nassau prompts.",
   "encryption": "aes-256-ctr",
-  "iv": "b247dd719fb97f3ea682c0f05a551a33"
+  "iv": "dbcaca9719cb0405bf58e494eb0d4bb2"
 }
