@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 122,
-  "versionName": "0.122.0",
-  "size": 470694017,
-  "sha256": "3886fc2caaff111c739b1921f191e5bbdc18c95d50a7fedc36d3ef04e0067155",
+  "versionCode": 123,
+  "versionName": "0.123.0",
+  "size": 470696153,
+  "sha256": "18903d2826444991ec2c1ccf08e69b10334ff7fe92011430a8e5b8b99a6a1cab",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-122/InfiniteRealities-Godot-Admin-Build122.apk.enc",
-  "notes": "Build122 adds seven reviewed Ready cards, including the Dinosaur Hatchling Token.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-123/InfiniteRealities-Godot-Admin-Build123.apk.enc",
+  "notes": "Build123 makes Community challenges connect players automatically without room codes.",
   "encryption": "aes-256-ctr",
-  "iv": "5278cef1a39b74fead5f65142e57eac6"
+  "iv": "f8b4f735fbc22041390f3667c7878432"
 }
