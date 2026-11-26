@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 123,
-  "versionName": "0.123.0",
-  "size": 470696153,
-  "sha256": "18903d2826444991ec2c1ccf08e69b10334ff7fe92011430a8e5b8b99a6a1cab",
+  "versionCode": 124,
+  "versionName": "0.124.0",
+  "size": 470709729,
+  "sha256": "be6d3bb79575aceb9dc42abd49c533b39ef44bc92b6a5d29a86214cb68f0c5b4",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-123/InfiniteRealities-Godot-Admin-Build123.apk.enc",
-  "notes": "Build123 makes Community challenges connect players automatically without room codes.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-124/InfiniteRealities-Godot-Admin-Build124.apk.enc",
+  "notes": "Build124 fixes tapping and dragging Silent Night and updates four Character Identities to match Card Studio.",
   "encryption": "aes-256-ctr",
-  "iv": "f8b4f735fbc22041390f3667c7878432"
+  "iv": "ab20351a84aeac5887684474bc2bf76c"
 }
