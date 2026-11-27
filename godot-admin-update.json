@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 127,
-  "versionName": "0.127.0",
-  "size": 470740465,
-  "sha256": "92df3b2ea9a4c5645efd2ee925ec41feddac574331c28fef02c3878d064149d7",
+  "versionCode": 128,
+  "versionName": "0.128.0",
+  "size": 470754700,
+  "sha256": "f0ad6727ad42ef3200086e8c549d7119187b7b3b660d712d0f0c707b85b8903a",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-127/InfiniteRealities-Godot-Admin-Build127.apk.enc",
-  "notes": "Build127 shows verifiable cards to both players and keeps reveal, turn and result animations in sequence.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-128/InfiniteRealities-Godot-Admin-Build128.apk.enc",
+  "notes": "Build128 animates field moves and swaps with the cards themselves and refines combat impacts.",
   "encryption": "aes-256-ctr",
-  "iv": "12d8d852c2d7656f7a2ab5af8d3c7970"
+  "iv": "7b361299e860e8fe7f1349d85421ea1b"
 }
