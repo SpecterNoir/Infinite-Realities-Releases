@@ -3,11 +3,11 @@
   "schemaVersion": 1,
   "channel": "godot-android-players",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 125,
-  "versionName": "0.125.0",
-  "size": 470571325,
-  "sha256": "591ce7ab0ace060a7a6e380443c70ad155370b68a135f91d135a730002b57265",
+  "versionCode": 126,
+  "versionName": "0.126.0",
+  "size": 470581657,
+  "sha256": "b2f985fafc9ef980cbb51a1f8bd3e947b7b821132fadd2e3614eda38695c63d9",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-125/InfiniteRealities-Godot-Android-Build125.apk",
-  "notes": "Build125 refines card plays, attack cues and deck animations."
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-android-build-126/InfiniteRealities-Godot-Android-Build126.apk",
+  "notes": "Build126 makes legal activations easier to spot and smooths card landings and draws."
 }

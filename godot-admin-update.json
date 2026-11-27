@@ -3,13 +3,13 @@
   "schemaVersion": 1,
   "channel": "godot-android-admin",
   "packageName": "com.infiniterealities.godot",
-  "versionCode": 125,
-  "versionName": "0.125.0",
-  "size": 470720217,
-  "sha256": "17fc638a364365ef9a4c8b4f695390ae3e24b9f7d635d1e80e6e8adc5f7802e2",
+  "versionCode": 126,
+  "versionName": "0.126.0",
+  "size": 470731005,
+  "sha256": "3720938019f3adf8ec6c836fa7596a1644505f1425fa5c75ca296b19bb404d91",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-125/InfiniteRealities-Godot-Admin-Build125.apk.enc",
-  "notes": "Build125 refines card plays, attack cues and deck animations.",
+  "downloadUrl": "https://github.com/SpecterNoir/Infinite-Realities-Releases/releases/download/godot-admin-build-126/InfiniteRealities-Godot-Admin-Build126.apk.enc",
+  "notes": "Build126 makes legal activations easier to spot and smooths card landings and draws.",
   "encryption": "aes-256-ctr",
-  "iv": "324140ea4395ee8101d09ed66af3c3d5"
+  "iv": "5f88257b981b86c87bf6be5e39bbfabc"
 }
